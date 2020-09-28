@@ -1,5 +1,5 @@
 # Java Tutorials
 
-+ [Java Core. Исключения](exceptions.md) 
++ [Java Core. Исключения и работа с ними](exceptions.md) 
 
 
