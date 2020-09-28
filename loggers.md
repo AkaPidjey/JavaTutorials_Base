@@ -19,12 +19,12 @@
 #### [Логирование в Java / quick start-->](https://habr.com/ru/post/130195/)
 #### [LOGGER LOG () МЕТОД В JAVA С ПРИМЕРАМИ-->](http://espressocode.top/logger-log-method-in-java-with-examples/)
 #### [Логирование в Java — Logger-->](https://javahelp.online/osnovy/logger-java)
-#### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
-#### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
-#### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
-#### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
-#### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
-#### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
+#### [Уроки Java 149: Логирование - loggers-->](https://www.youtube.com/watch?v=e1Balqbin84)
+#### [Логирование. Размотать клубок стектрейса-->](https://javarush.ru/groups/posts/2200-logirovanie-razmotatjh-klubok-stektreysa)
+#### [Ссылка-->]()
+#### [Ссылка-->]()
+#### [Ссылка-->]()
+#### [Ссылка-->]()
 
 
 
