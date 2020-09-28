@@ -458,6 +458,7 @@ __Методы:__
 [к оглавлению](#исключения)
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
+#### [Название-->](Ссылка)
 #### [Исключения-->](https://www.youtube.com/watch?v=DElNhj71YCk)
 #### [Исключения: перехват и обработка-->](https://javarush.ru/groups/posts/1943-iskljuchenija-perekhvat-i-obrabotka)
 #### [Исключения: checked, unchecked и свои собственные-->](https://javarush.ru/groups/posts/1944-iskljuchenija-checked-unchecked-i-svoi-sobstvennihe)
@@ -467,5 +468,8 @@ __Методы:__
 #### [Основные типы исключений (Exception) в java-->](https://www.fandroid.info/osnovnye-tipy-isklyuchenij-exception-v-java/)
 #### [Классы Java для обработки исключительных ситуаций из пакета java.lang. Методы класса Throwable. Примеры-->](https://www.bestprog.net/ru/2019/10/01/java-%D1%81lasses-for-handling-exceptions-from-the-java-lang-package-methods-of-throwable-class-examples-ru/)
 #### [Java — исключения-->](https://coderlessons.com/tutorials/java-tekhnologii/uchit-java/java-iskliucheniia)
-#### [Исключения-->]()
-#### [Исключения-->]()
+#### [Java Checked and Unchecked Exceptions-->](https://www.codejava.net/java-core/exception/java-checked-and-unchecked-exceptions)
+#### [Обработка исключений Java: try-catch-finally-->](https://javahelp.online/collections/obrabotka-isklyucheniy-java-try-catch-finally)
+#### [Полное руководство по обработке исключений в Java-->](https://javadevblog.com/polnoe-rukovodstvo-po-obrabotke-isklyuchenij-v-java.html)
+#### [Название-->](Ссылка)
+#### [Название-->](Ссылка)
