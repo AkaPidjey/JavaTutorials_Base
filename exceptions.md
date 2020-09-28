@@ -30,6 +30,7 @@
 + [Предположим, есть блок `try-finally`. В блоке `try` возникло исключение и выполнение переместилось в блок `finally`. В блоке `finally` тоже возникло исключение. Какое из двух исключений “выпадет” из блока `try-finally`? Что случится со вторым исключением?](#Предположим-есть-блок-try-finally-В-блоке-try-возникло-исключение-и-выполнение-переместилось-в-блок-finally-В-блоке-finally-тоже-возникло-исключение-Какое-из-двух-исключений-выпадет-из-блока-try-finally-Что-случится-со-вторым-исключением)
 + [Перечислите исключения по названиям?](#Перечислите-исключения-по-названиям)
 + [Какое назначение класса `Throwable`? Методы класса `Throwable`?](#Какое-назначение-класса-Throwable-Методы-класса-Throwable)
++ [ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ](#ССЫЛКИ-НА-ДОПОЛНИТЕЛЬНУЮ-ИНФУ)
 
 
 
@@ -297,7 +298,7 @@ class CustomException extends Exception {
 + `java.lang.OutOfMemoryError: GC overhead limit exceeded`: Данная ошибка может возникнуть как при переполнении первой, так и второй областей. Связана она с тем, что памяти осталось мало и сборщик мусора постоянно работает, пытаясь высвободить немного места. Данную ошибку можно отключить с помощью параметра `-XX:-UseGCOverheadLimit`.
 + `java.lang.OutOfMemoryError: unable to create new native thread`: Выбрасывается, когда нет возможности создавать новые потоки.
 
-#### [Подробнее с примерами-->](http://habrahabr.ru/post/117274/)
+### [Подробнее с примерами-->](http://habrahabr.ru/post/117274/)
 
 [к оглавлению](#исключения)
 
@@ -456,4 +457,15 @@ __Методы:__
 
 [к оглавлению](#исключения)
 
-
+## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
+### [Исключения-->](https://www.youtube.com/watch?v=DElNhj71YCk)
+### [Исключения: перехват и обработка-->](https://javarush.ru/groups/posts/1943-iskljuchenija-perekhvat-i-obrabotka)
+### [Исключения: checked, unchecked и свои собственные-->](https://javarush.ru/groups/posts/1944-iskljuchenija-checked-unchecked-i-svoi-sobstvennihe)
+### [Антипаттерны обработки исключений в Java-->](https://dev64.wordpress.com/2012/10/07/exception-handling-antipatterns/)
+### [Исправляем 7 распространенных ошибок обработки исключений в Java-->](https://habr.com/ru/post/337536/)
+### [Приемы и советы. Как избежать NullPointerException в Java приложениях-->](https://javarush.ru/groups/posts/680-priemih-i-sovetih-kak-izbezhatjh-nullpointerexception-v-java-prilozhenijakh)
+### [Основные типы исключений (Exception) в java-->](https://www.fandroid.info/osnovnye-tipy-isklyuchenij-exception-v-java/)
+### [Исключения-->]()
+### [Исключения-->]()
+### [Исключения-->]()
+### [Исключения-->]()
