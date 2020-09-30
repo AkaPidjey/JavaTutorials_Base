@@ -9,5 +9,6 @@
 + [Java Core. Логирование](loggers.md) ![icon][done]
 + [Java Core. Потоки ввода / вывода](streams.md)
 + [Java Core. Сериализация](serialization.md)
++ [Java Core. Обобщения(Generics)](generics.md)
 
 [done]:done.png
