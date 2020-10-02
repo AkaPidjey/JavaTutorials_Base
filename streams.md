@@ -512,7 +512,7 @@ __Другие отличия:__
 #### [Ввод-вывод в Java. Классы FileInputStream, FileOutputStream, BufferedInputStream-->](https://javarush.ru/groups/posts/2020-vvod-vihvod-v-java-klassih-fileinputstream-fileoutputstream-bufferedinputstream)
 #### [ГЛАВА 18. Потоки ввода/вывода-->](http://www.realcoding.net/articles/glava-18-potoki-vvodavyvoda.html)
 #### [Потоки ввода, InputStream-->](http://java-online.ru/java-inputstream.xhtml)
-#### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
+#### [BufferedReader и BufferedWriter-->](https://javarush.ru/groups/posts/593-bufferedreader-i-bufferedwritter)
 #### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
 #### [Ссылка-->](https://www.youtube.com/watch?v=DElNhj71YCk)
 
