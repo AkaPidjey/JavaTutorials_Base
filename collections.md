@@ -15,10 +15,10 @@
 
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+#### [Map и Set-->]( https://learn.javascript.ru/map-set )
+#### [Набор данных интерфейса Set-->]( http://java-online.ru/java-set.xhtml )
+#### [Java 8 новые методы в Map-->]( https://vertex-academy.com/tutorials/ru/java-8-novye-metody-map/ )
+#### [Map.merge () - метод, чтобы управлять всеми остальными-->]( https://mygpstools.com/mapmerge-metod-chtoby-upravlyat-vsemi-ostalnymi )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
