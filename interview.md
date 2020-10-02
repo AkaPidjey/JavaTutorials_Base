@@ -2,6 +2,14 @@
 
 # Сайты о собеседованиях по Java:
 
+#### [Java String. Вопросы к собеседованию и ответы на них, ч.1-->]( https://javarush.ru/groups/posts/759-java-string-voprosih-k-sobesedovaniju-i-otvetih-na-nikh-ch1 )
+#### [Java String. Вопросы к собеседованию и ответы на них, ч.2-->]( https://javarush.ru/groups/posts/760-java-string-voprosih-k-sobesedovaniju-i-otvetih-na-nikh-ch2 )
+#### [Топ-50 Java Core вопросов и ответов на собеседовании. Часть 1-->]( https://javarush.ru/groups/posts/2590-top-50-java-core-voprosov-i-otvetov-na-sobesedovanii-chastjh-1 )
+#### [Топ-50 Java Core вопросов и ответов на собеседовании. Часть 2-->]( https://javarush.ru/groups/posts/2592-top-50-java-core-voprosov-iotvetov-na-sobesedovanii-chastjh-2 )
+#### [Топ-50 Java Core вопросов и ответов на собеседовании. Часть 3-->]( https://javarush.ru/groups/posts/2597-top-50-java-core-voprosov-i-otvetov-na-sobesedovanii-chastjh-3 )
+#### [Вопросы к собеседованию Java-backend, Java core (60 вопросов)-->]( https://habr.com/ru/post/485678/ )
+#### [Вопросы и ответы к собеседованию по Java-->]( https://javahelp.online/osnovy/voprosy-otvety-sobesedovanie-java )
+#### [Список вопросов с ответами для собеседования по Java-->]( https://javastudy.ru/interview/list-of-question-java-interview/ )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
