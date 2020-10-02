@@ -156,10 +156,10 @@ public class Person implements java.io.Serializable,
 
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
-#### [Название-->](Ссылка)
-#### [Название-->](Ссылка)
-#### [Название-->](Ссылка)
-#### [Название-->](Ссылка)
+#### [Сериализация в Java. Не все так просто-->](https://habr.com/ru/post/431524/#:~:text=%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+#### [Сериализация в Java-->](https://habr.com/ru/post/60317/)
+#### [Сериализация и десериализация в Java-->](https://javarush.ru/groups/posts/2022-serializacija-i-deserializacija-v-java)
+#### [Сериализация как она есть-->](http://www.skipy.ru/technics/serialization.html#top)
 #### [Название-->](Ссылка)
 #### [Название-->](Ссылка)
 #### [Название-->](Ссылка)
