@@ -1,6 +1,6 @@
 # Java Tutorials
 
-+ [Java Core. Примитивные типы данных](primitives.md) ![icon][done]
++ [Java Core. Примитивные типы данных](primitives.md) :white_check_mark:
 + [Java Core. Класс `String`](strings.md) ![icon][done]
 + [Java Core. ООП](oop.md) ![icon][done]
 + [Java Core. Объекты, классы, пакеты](classes.md) ![icon][done]
