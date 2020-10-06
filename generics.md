@@ -284,7 +284,7 @@ public class CatCage implements Cage<Cat>
 
 [к оглавлению](#Обобщения)
 
-## Что такое `__Wildcards__)`?
+## Что такое __`Wildcards`__?
 Всегда ли Generics инварианты? Нет. Приведу примеры:
 ```java
 List<Integer> ints = new ArrayList<Integer>();
