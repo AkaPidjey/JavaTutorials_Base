@@ -337,6 +337,7 @@ Collections.copy(nums, ints);
 
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
+#### [Пришел, увидел, обобщил: погружаемся в Java Generics-->]( https://habr.com/ru/company/sberbank/blog/416413/ )
 #### [Lesson: Generics (Updated)-->]( https://docs.oracle.com/javase/tutorial/java/generics/index.html )
 #### [Теория дженериков в Java или как на практике ставить скобки-->]( https://javarush.ru/groups/posts/2004-teorija-dzhenerikov-v-java-ili-gde-na-praktike-stavitjh-skobki )
 #### [Стирание типов-->]( https://javarush.ru/groups/posts/2315-stiranie-tipov )
