@@ -10,7 +10,7 @@
 #### [Вопросы к собеседованию Java-backend, Java core (60 вопросов)-->]( https://habr.com/ru/post/485678/ )
 #### [Вопросы и ответы к собеседованию по Java-->]( https://javahelp.online/osnovy/voprosy-otvety-sobesedovanie-java )
 #### [Список вопросов с ответами для собеседования по Java-->]( https://javastudy.ru/interview/list-of-question-java-interview/ )
-#### [Название-->]( Ссылка )
+#### [Вопросы по Java на собеседовании-->]( http://java-online.ru/java-interview.xhtml )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
