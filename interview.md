@@ -12,7 +12,7 @@
 #### [Список вопросов с ответами для собеседования по Java-->]( https://javastudy.ru/interview/list-of-question-java-interview/ )
 #### [Вопросы по Java на собеседовании-->]( http://java-online.ru/java-interview.xhtml )
 #### [Подготовка к собеседованию на Java: 15 вопросов по собеседованию на Java-->]( https://coderlessons.com/articles/java/podgotovka-k-sobesedovaniiu-na-java-15-voprosov-po-sobesedovaniiu-na-java )
-#### [Название-->]( Ссылка )
+#### [Шпаргалка Java программиста-->]( https://habr.com/ru/post/265061/ )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
