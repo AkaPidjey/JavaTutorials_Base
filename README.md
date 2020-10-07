@@ -9,8 +9,8 @@
 + [Java Core. Логирование](loggers.md) :white_check_mark:
 + [Java Core. Потоки ввода / вывода](streams.md) :white_check_mark:
 + [Java Core. Сериализация](serialization.md) :white_check_mark:
-+ [Java Core. Обобщения(Generics)](generics.md)
-+ [Java Framework. Collections](collections.md)
++ [Java Core. Обобщения(Generics)](generics.md) :white_check_mark:
++ [Java Framework. Collections](collections.md) :white_check_mark:
 + [Java Interview](interview.md)
 
 
