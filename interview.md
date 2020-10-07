@@ -11,7 +11,7 @@
 #### [Вопросы и ответы к собеседованию по Java-->]( https://javahelp.online/osnovy/voprosy-otvety-sobesedovanie-java )
 #### [Список вопросов с ответами для собеседования по Java-->]( https://javastudy.ru/interview/list-of-question-java-interview/ )
 #### [Вопросы по Java на собеседовании-->]( http://java-online.ru/java-interview.xhtml )
-#### [Название-->]( Ссылка )
+#### [Подготовка к собеседованию на Java: 15 вопросов по собеседованию на Java-->]( https://coderlessons.com/articles/java/podgotovka-k-sobesedovaniiu-na-java-15-voprosov-po-sobesedovaniiu-na-java )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
