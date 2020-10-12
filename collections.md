@@ -1125,7 +1125,7 @@ HashSet<Object> set = new HashSet<>(map.keySet());
 #### [Как HashMap работает в Java?-->]( https://javarush.ru/groups/posts/813-kak-hashmap-rabotaet-v-java )
 #### [HashMap и HashSet. Что это на самом деле?-->]( https://devcolibri.com/hashmap-%D0%B8-hashset-%D1%87%D1%82%D0%BE-%D1%8D%D1%82%D0%BE-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%BE%D0%BC-%D0%B4%D0%B5%D0%BB%D0%B5/ )
 #### [Коллекции в Java-->]( http://www.quizful.net/post/Java-Collections )
-#### [Название-->]( Ссылка )
+#### [Очереди и класс ArrayDeque-->]( https://metanit.com/java/tutorial/5.7.php )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
