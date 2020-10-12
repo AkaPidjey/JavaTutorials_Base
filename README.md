@@ -13,6 +13,7 @@
 + [Java Core. Функциональные интерфейсы](functionalInterface.md) 
 + [Java Core. Stream API](streamApi.md) 
 + [Java Framework. Collections](collections.md) :white_check_mark:
++ [Java Framework. Apache Maven](maven.md)
 + [Java Interview](interview.md)
 
 
