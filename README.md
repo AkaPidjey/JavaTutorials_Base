@@ -10,8 +10,8 @@
 + [Java Core. Потоки ввода / вывода](streams.md) :white_check_mark:
 + [Java Core. Сериализация](serialization.md) :white_check_mark:
 + [Java Core. Обобщения(Generics)](generics.md) :white_check_mark:
-+ [Java Core. Функциональные интерфейсы](functionalInterface.md) 
-+ [Java Core. Stream API & Лямбда-выражения](streamApi.md)
++ [Java Core. Функциональные интерфейсы](functionalInterface.md) :white_check_mark:
++ [Java Core. Stream API & Лямбда-выражения](streamApi.md) :white_check_mark:
 + [Java. JDBC API](jdbc.md) 
 + [Java Framework. Collections](collections.md) :white_check_mark:
 + [Java Framework. Apache Maven](maven.md)
