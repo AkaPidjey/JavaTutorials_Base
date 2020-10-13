@@ -207,16 +207,15 @@ UnaryOperator<Integer> myOperatorWithoutName = new UnaryOperator<Integer>() {
 
 Когда мы реализуем один единственный метод интерфейса, то нет необходимости его указывать в реализации,  
 Я обычно использую его как ярлык для подключения прослушивателя событий:
-public void addActionListener(ActionListener listener) {
-		listeners.add(listener);
+```java
+public void addActionListener(ActionListener listener) {listeners.add(listener)};
 
-button.addActionListener(new ActionListener() {
-   ```java
-    @Override
-    public void actionPerformed(ActionEvent e) { //описание структуры анонимного класса
+    button.addActionListener(new ActionListener() {
+       @Override
+       public void actionPerformed(ActionEvent e) { //описание структуры анонимного класса
         // do something
-    }
-});
+       }
+    });
 ```
 1.	Нет необходимости явно указывать:
 - сам интерфейс, потому что на этапе компиляции он видит заголовок в параметрах метода принимающего значения, 
