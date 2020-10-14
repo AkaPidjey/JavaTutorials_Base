@@ -18,4 +18,4 @@
 + [Java Interview](interview.md)
 + [GIT & GitHub](git.md)
 + [SQL](sql.md)
-
++ [Java Design Patterns](patterns.md)
