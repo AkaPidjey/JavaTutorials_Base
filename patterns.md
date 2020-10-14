@@ -9,8 +9,8 @@
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
 
 #### [Что такое паттерн проектирования MVC в Java?-->]( https://pro-java.ru/patterny-proektirovaniya-java/chto-takoe-pattern-proektirovaniya-mvc-v-java/ )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+#### [Паттерны проектирования в Java [Часть 1]-->]( https://javarush.ru/groups/posts/496-patternih-proektirovanija-v-java )
+#### [Паттерны проектирования в Java [Часть 2]-->]( https://javarush.ru/groups/posts/584-patternih-proektirovanija )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
