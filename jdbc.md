@@ -10,7 +10,7 @@
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
 ### ---Info---
 #### [mvnrepository.com-->]( https://mvnrepository.com/ )
-#### [Название-->]( Ссылка )
+#### [Microsoft JDBC Driver для SQL Server-->]( https://docs.microsoft.com/ru-ru/sql/connect/jdbc/microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15 )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 ### ---Video---
@@ -21,7 +21,7 @@
 ### ---Lessons---
 #### [Руководство Java JDBC-->]( https://o7planning.org/ru/10167/java-jdbc-tutorial )
 #### [Java и базы данных JDBC-->]( https://metanit.com/java/database/1.1.php )
-#### [Название-->]( Ссылка )
+#### [Управление Java classpath (Windows)-->]( https://www.ibm.com/developerworks/ru/library/j-classpath-windows/index.html )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
