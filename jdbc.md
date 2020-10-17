@@ -18,7 +18,7 @@
 #### [YouTube/ITVDN(Платное)/Что такое JDBC? Основы JDBC. Урок 1-->]( https://www.youtube.com/watch?v=MECfvJOMk0I )
 #### [YouTube/Java Vision/Java JDBC часть 1 Connection-->]( https://www.youtube.com/watch?v=1IGNxAV-oKg )
 #### [YouTube/Java Vision/Java JDBC часть 2 DAO-->]( https://www.youtube.com/watch?v=42feBSSKA9Q )
-#### [Название-->]( Ссылка )
+#### [YouTube/Java Vision/JDBC часть 3 Repository-->]( https://www.youtube.com/watch?v=aGOWweeAfcw )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
