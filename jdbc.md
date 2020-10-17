@@ -26,7 +26,7 @@
 #### [Руководство Java JDBC-->]( https://o7planning.org/ru/10167/java-jdbc-tutorial )
 #### [Java и базы данных JDBC-->]( https://metanit.com/java/database/1.1.php )
 #### [Управление Java classpath (Windows)-->]( https://www.ibm.com/developerworks/ru/library/j-classpath-windows/index.html )
-#### [Название-->]( Ссылка )
+#### [Класс Statement-->]( http://java-online.ru/jdbc-statement.xhtml )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 ### ---Forum---
