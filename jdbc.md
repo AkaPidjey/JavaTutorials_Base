@@ -15,6 +15,8 @@
 #### [Название-->]( Ссылка )
 ### ---Video---
 #### [YouTube/kuidreS/Урок 1 - Создание базы данных-->]( https://www.youtube.com/watch?v=JA54ADd22gk )
+#### [YouTube/kuidreS/-->]( Ссылка )
+#### [YouTube/kuidreS/-->]( Ссылка )
 #### [YouTube/ITVDN(Платное)/Что такое JDBC? Основы JDBC. Урок 1-->]( https://www.youtube.com/watch?v=MECfvJOMk0I )
 #### [YouTube/Java Vision/Java JDBC часть 1 Connection-->]( https://www.youtube.com/watch?v=1IGNxAV-oKg )
 #### [YouTube/Java Vision/Java JDBC часть 2 DAO-->]( https://www.youtube.com/watch?v=42feBSSKA9Q )
