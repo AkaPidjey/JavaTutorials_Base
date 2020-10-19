@@ -15,6 +15,7 @@
 + [Java. JDBC API](jdbc.md) 
 + [Java Framework. Collections](collections.md) :white_check_mark:
 + [Java Framework. Apache Maven](maven.md)
++ [Java Framework. Hibernate](hibernate.md)
 + [Java Interview](interview.md)
 + [GIT & GitHub](git.md)
 + [SQL](sql.md)
