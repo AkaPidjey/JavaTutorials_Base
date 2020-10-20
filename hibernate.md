@@ -15,9 +15,9 @@
 #### [Hibernate.org-->]( https://hibernate.org/orm/ )
 ### ---Video---
 #### [YouTube/kuidreS/Hibernate - немного теории-->]( https://www.youtube.com/watch?v=HS7qJ4SRznM )
-#### [YouTube/kuidreS/-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+#### [YouTube/kuidreS/Урок 4 - Hibernate XML mapping-->]( https://www.youtube.com/watch?v=HUBuijE_Jg0 )
+#### [YouTube/kuidreS/Урок 5 - Hibernate annotation mapping-->]( https://www.youtube.com/watch?v=qnZnu0dR36o&t=2s )
+#### [YouTube/kuidreS/Урок 6 - содание DAO и Service слоев (Hibernate annotations, H2)-->]( https://www.youtube.com/watch?v=cCklIY78tc0 )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
