@@ -31,7 +31,7 @@
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+#### [YouTube/luv2code/Hibernate Tutorial #1 - Hibernate Overview(ENG)-->]( https://www.youtube.com/watch?v=0hm3QidFwYY&list=PLEAQNNR8IlB7fNkRsUgzrR346i-UqE5CG&index=1 )
 ### ---Lessons---
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
