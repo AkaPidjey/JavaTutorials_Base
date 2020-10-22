@@ -11,7 +11,7 @@
 ### ---Info---
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+#### [Package javax.persistence-->]( https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html )
 #### [Hibernate.org-->]( https://hibernate.org/orm/ )
 ### ---Video---
 #### [YouTube/kuidreS/Hibernate - немного теории-->]( https://www.youtube.com/watch?v=HS7qJ4SRznM )
@@ -33,8 +33,8 @@
 #### [Название-->]( Ссылка )
 #### [YouTube/luv2code/Hibernate Tutorial #1 - Hibernate Overview(ENG)-->]( https://www.youtube.com/watch?v=0hm3QidFwYY&list=PLEAQNNR8IlB7fNkRsUgzrR346i-UqE5CG&index=1 )
 ### ---Lessons---
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+#### [Hibernate. Основные принципы работы с сессиями и транзакциями-->]( https://habr.com/ru/post/271115/ )
+#### [Ваше первое приложение на Hibernate-->]( https://javarush.ru/groups/posts/hibernate-java )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
