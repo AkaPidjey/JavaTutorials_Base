@@ -46,8 +46,7 @@
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [YouTube/GeekBrains/Изучите Hibernate на практике GeekBrains-->] ( https://www.youtube.com/watch?v=4CLlk9EeUeo )
+#### [YouTube/GeekBrains/Изучите Hibernate на практике GeekBrains-->]( https://www.youtube.com/watch?v=4CLlk9EeUeo )
 #### [YouTube/D2D/Курс Java для начинающих. Занятие №9. ORM JPA Hibernate-->]( https://www.youtube.com/watch?v=u4GSk3GVZNw )
 #### [YouTube/luv2code/Hibernate Tutorial #1 - Hibernate Overview(ENG)-->]( https://www.youtube.com/watch?v=0hm3QidFwYY&list=PLEAQNNR8IlB7fNkRsUgzrR346i-UqE5CG&index=1 )
 ### ---Lessons---
