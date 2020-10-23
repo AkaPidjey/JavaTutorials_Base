@@ -3,11 +3,24 @@
 # Frameworks
 ## Various frameworks and plugins
 
-#### [Fram Lombok-->]( https://habr.com/ru/post/345520/ )
++ [Plugin Lombok](#plugin-lombok)
++ [Framwork Apache Maven](#Framwork-Apache-Maven)
+
+
 
 + [ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ](#ССЫЛКИ-НА-ДОПОЛНИТЕЛЬНУЮ-ИНФУ)
 
+## Fram Lombok
 
+#### [Шпаргалки Java программиста 10: Lombok-->]( https://habr.com/ru/post/345520/ )
+[к оглавлению](#frameworks)
+
+## Framwork Apache Maven
+
+#### [Официальный сайт установка-->]( http://maven.apache.org/download.cgi )
+#### [Apache Maven Project-->]( https://www.apache-maven.ru/ )
+#### [Maven. Часть 1 – Знакомство и настройка-->]( https://devcolibri.com/maven-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/ )
+#### [Maven. Часть 2 – Dependency-->]( https://devcolibri.com/maven-%d1%87%d0%b0%d1%81%d1%82%d1%8c-2-dependency/ )
 
 [к оглавлению](#frameworks)
 
