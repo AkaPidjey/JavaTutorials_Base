@@ -8,11 +8,13 @@
 [к оглавлению](#hibernate)
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
+
 ### ---Info---
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Package javax.persistence-->]( https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html )
 #### [Hibernate.org-->]( https://hibernate.org/orm/ )
+
 ### ---Video---
 #### [YouTube/kuidreS/Hibernate - немного теории-->]( https://www.youtube.com/watch?v=HS7qJ4SRznM )
 #### [YouTube/kuidreS/Урок 4 - Hibernate XML mapping-->]( https://www.youtube.com/watch?v=HUBuijE_Jg0 )
@@ -49,13 +51,15 @@
 #### [YouTube/GeekBrains/Изучите Hibernate на практике GeekBrains-->]( https://www.youtube.com/watch?v=4CLlk9EeUeo )
 #### [YouTube/D2D/Курс Java для начинающих. Занятие №9. ORM JPA Hibernate-->]( https://www.youtube.com/watch?v=u4GSk3GVZNw )
 #### [YouTube/luv2code/Hibernate Tutorial #1 - Hibernate Overview(ENG)-->]( https://www.youtube.com/watch?v=0hm3QidFwYY&list=PLEAQNNR8IlB7fNkRsUgzrR346i-UqE5CG&index=1 )
+
 ### ---Lessons---
 #### [Hibernate. Основные принципы работы с сессиями и транзакциями-->]( https://habr.com/ru/post/271115/ )
 #### [Ваше первое приложение на Hibernate-->]( https://javarush.ru/groups/posts/hibernate-java )
+#### [Аннотации. Часть первая, немного скучная-->]( https://javarush.ru/groups/posts/500-annotacii-chastjh-pervaja-nemnogo-skuchnaja )
+#### [Аннотации. Часть вторая. Lombok-->]( https://javarush.ru/groups/posts/518-annotacii-chastjh-vtoraja-lombok )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+
 ### ---Forum---
 #### [Hibernate 5 Java Configuration Example-->]( https://dzone.com/articles/hibernate-5-java-configuration-example )
 #### [Название-->]( Ссылка )
