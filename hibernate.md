@@ -130,33 +130,33 @@ hibernate.hbm2ddl.auto Автоматически проверяет или эк
 [к оглавлению](#hibernate)
 
 ## Какие требования JPA к Entity классам вы можете перечислить?
-+ 1. Entity класс должен быть отмечен аннотацией Entity или описан в XML файле конфигурации JPA.
-+ 2. Entity класс должен содержать public или protected конструктор без аргументов (он также может иметь конструкторы с аргументами).
-+ 3. Entity класс должен быть классом верхнего уровня (top-level class).
-+ 4. Entity класс не может быть enum или интерфейсом.
-+ 5. Entity класс не может быть финальным классом (final class).
-+ 6. Entity класс не может содержать финальные поля или методы, если они участвуют в маппинге (persistent final methods or persistent final instance variables).
-+ 7. Если объект Entity класса будет передаваться по значению как отдельный объект (detached object), например через удаленный интерфейс (through a remote interface), он так же должен реализовывать Serializable интерфейс.
-+ 8. Поля Entity класс должны быть напрямую доступны только методам самого Entity класса и не должны быть напрямую доступны другим классам, использующим этот Entity. Такие классы должны обращаться только к методам (getter/setter методам или другим методам бизнес-логики в Entity классе).
-+ 9. Enity класс должен содержать первичный ключ, то есть атрибут или группу атрибутов которые уникально определяют запись этого Enity класса в базе данных.
++ 1- Entity класс должен быть отмечен аннотацией Entity или описан в XML файле конфигурации JPA.
++ 2- Entity класс должен содержать public или protected конструктор без аргументов (он также может иметь конструкторы с аргументами).
++ 3- Entity класс должен быть классом верхнего уровня (top-level class).
++ 4- Entity класс не может быть enum или интерфейсом.
++ 5- Entity класс не может быть финальным классом (final class).
++ 6- Entity класс не может содержать финальные поля или методы, если они участвуют в маппинге (persistent final methods or persistent final instance variables).
++ 7- Если объект Entity класса будет передаваться по значению как отдельный объект (detached object), например через удаленный интерфейс (through a remote interface), он так же должен реализовывать Serializable интерфейс.
++ 8- Поля Entity класс должны быть напрямую доступны только методам самого Entity класса и не должны быть напрямую доступны другим классам, использующим этот Entity. Такие классы должны обращаться только к методам (getter/setter методам или другим методам бизнес-логики в Entity классе).
++ 9- Enity класс должен содержать первичный ключ, то есть атрибут или группу атрибутов которые уникально определяют запись этого Enity класса в базе данных.
 
 [к оглавлению](#hibernate)
 
 ## Что такое EntityManager и какие основные его функции вы можете перечислить?
 __EntityManager__ это интерфейс, который описывает API для всех основных операций над Enitity, получение данных и других сущностей JPA. По сути главный API для работы с JPA. Основные операции:
-+ 1. Для операций над Entity: persist (добавление Entity под управление JPA), merge (обновление), remove (удаления), refresh (обновление данных), detach (удаление из управление JPA), lock (блокирование Enity от изменений в других thread),
-+ 2. Получение данных: find (поиск и получение Entity), createQuery, createNamedQuery, createNativeQuery, contains, createNamedStoredProcedureQuery, createStoredProcedureQuery
-+ 3. Получение других сущностей JPA: getTransaction, getEntityManagerFactory, getCriteriaBuilder, getMetamodel, getDelegate
-+ 4. Работа с EntityGraph: createEntityGraph, getEntityGraph
-+ 5. Общие операции над EntityManager или всеми Entities: close, isOpen, getProperties, setProperty, clear
++ 1- Для операций над Entity: persist (добавление Entity под управление JPA), merge (обновление), remove (удаления), refresh (обновление данных), detach (удаление из управление JPA), lock (блокирование Enity от изменений в других thread),
++ 2- Получение данных: find (поиск и получение Entity), createQuery, createNamedQuery, createNativeQuery, contains, createNamedStoredProcedureQuery, createStoredProcedureQuery
++ 3- Получение других сущностей JPA: getTransaction, getEntityManagerFactory, getCriteriaBuilder, getMetamodel, getDelegate
++ 4- Работа с EntityGraph: createEntityGraph, getEntityGraph
++ 5- Общие операции над EntityManager или всеми Entities: close, isOpen, getProperties, setProperty, clear
 
 [к оглавлению](#hibernate)
 
 ## Какие четыре статуса жизненного цикла Entity объекта вы можите перечислить?
 У Entity объекта существует четыре статуса жизненного цикла: new, managed, detached, или removed. Их описание
-+ 1. __new__ — объект создан, но при этом ещё не имеет сгенерированных первичных ключей и пока ещё не сохранен в базе данных.
-+ 2. __managed__ — объект создан, управляется JPA, имеет сгенерированные первичные ключи.
-+ 3) __detached__ — объект был создан, но не управляется (или больше не управляется) JPA.
++ 1- __new__ — объект создан, но при этом ещё не имеет сгенерированных первичных ключей и пока ещё не сохранен в базе данных.
++ 2- __managed__ — объект создан, управляется JPA, имеет сгенерированные первичные ключи.
++ 3- __detached__ — объект был создан, но не управляется (или больше не управляется) JPA.
 + 4- __removed__ — объект создан, управляется JPA, но будет удален после commit'a транзакции.
 
 [к оглавлению](#hibernate)
