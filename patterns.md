@@ -1,9 +1,21 @@
 [Java Tutorials](README.md)
 
 # Patterns
-+ [Что такое параметр общего типа?](#Что-такое-параметр-общего-типа)
++ [Паттерн DAO](#Паттерн-DAO)
+
 
 + [ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ](#ССЫЛКИ-НА-ДОПОЛНИТЕЛЬНУЮ-ИНФУ)
+
+[к оглавлению](#patterns)
+
+## Паттерн DAO
+#### [Шаблон DAO в Java-->]( https://www.codeflow.site/ru/article/java-dao-pattern )
+#### [Забудьте о DAO, используйте Repository-->]( https://habr.com/ru/post/263033/ )
+#### [Паттерн Data Access Object-->]( http://javatutor.net/articles/j2ee-pattern-data-access-object )
+#### [Java. Реализация шаблона DAO-->]( https://www.dokwork.ru/2014/02/daotalk.html )
+#### [Использование паттерна data access object в клиентском приложении-->]( https://tproger.ru/projects/pattern-data-access-object/ )
+#### [Название-->]( Ссылка )
+
 [к оглавлению](#patterns)
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
