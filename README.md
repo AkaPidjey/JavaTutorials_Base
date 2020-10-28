@@ -12,9 +12,10 @@
 + [Java Core. Обобщения(Generics)](generics.md) :white_check_mark:
 + [Java Core. Функциональные интерфейсы](functionalInterface.md) :white_check_mark:
 + [Java Core. Stream API & Лямбда-выражения](streamApi.md) :white_check_mark:
-+ [Java. JDBC API](jdbc.md) 
++ [Java. JDBC API](jdbc.md) :white_check_mark:
 + [Java Framework. Collections](collections.md) :white_check_mark:
-+ [Java Framework. Hibernate](hibernate.md)
++ [Java Framework. Hibernate](hibernate.md)   :white_check_mark:
++ [Java Framework. Spring](spring.md)
 + [Java Design Patterns](patterns.md)
 + [Various frameworks and plugins](frameworks.md)
 + [Testing](testing.md)
