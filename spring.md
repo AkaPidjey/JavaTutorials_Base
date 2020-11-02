@@ -121,6 +121,14 @@ JavaBean - это объект Java, который удовлетворяет �
 ### ---Lessons---
 
 #### [Что такое Spring Framework? От внедрения зависимостей до Web MVC-->]( https://habr.com/ru/post/490586/ )
+#### [Подготовка к Spring Professional Certification. Контейнер, IoC, бины-->]( https://habr.com/ru/post/470305/ )
+#### [Руководство по аннотациям Spring Framework-->]( https://coderlessons.com/articles/java/rukovodstvo-po-annotatsiiam-spring-framework )
+#### [Spring Core Annotations-->]( https://www.codeflow.site/ru/article/spring-core-annotations )
+#### [Understanding Dependencies-->]( https://habr.com/ru/post/349836/ )
+#### [Dependency injection-->]( https://habr.com/ru/post/350068/ )
+#### [Обратная сторона Spring-->]( https://habr.com/ru/post/334448/ )
+#### [Название-->]( Ссылка )
+#### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
