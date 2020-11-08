@@ -5,6 +5,8 @@
 
 + [Plugin Lombok](#plugin-lombok)
 + [Framwork Apache Maven](#Framwork-Apache-Maven)
++ [Apache Application Server Tomcat](#Apache-Application-Server-Tomcat)
++ [Thymeleaf Templates](#Thymeleaf-Templates)
 
 
 
@@ -71,6 +73,24 @@ Maven-плагины позволяют вставлять в стандартн
 #### [Apache Maven Project-->]( https://www.apache-maven.ru/ )
 #### [Maven. Часть 1 – Знакомство и настройка-->]( https://devcolibri.com/maven-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/ )
 #### [Maven. Часть 2 – Dependency-->]( https://devcolibri.com/maven-%d1%87%d0%b0%d1%81%d1%82%d1%8c-2-dependency/ )
+
+[к оглавлению](#frameworks)
+
+## Apache Application Server Tomcat
+#### [Установка и настройка Tomcat Server-->]( https://o7planning.org/ru/11583/installing-and-configuring-tomcat-server )
+#### [Установка SSL(HTTPS) для Tomcat Server-->]( https://o7planning.org/ru/12239/installing-ssl-for-tomcat-server )
+#### [Название-->]( Ссылка )
+
+[к оглавлению](#frameworks)
+
+## Thymeleaf Templates
+
+#### [Учебник Thymeleaf: Глава 1. Знакомство-->]( https://habr.com/ru/post/350864/ )
+#### [Учебник Thymeleaf: Глава 2. Хорошая виртуальная бакалейная лавка Thymes-->]( https://habr.com/ru/post/350866/ )
+#### [Учебник Thymeleaf: Глава 3. Использование Text-->]( https://habr.com/ru/post/350868/ )
+#### [Руководство Spring Boot и Thymeleaf-->]( https://o7planning.org/ru/11545/spring-boot-and-thymeleaf-tutorial )
+#### [Название-->]( Ссылка )
+
 
 [к оглавлению](#frameworks)
 
