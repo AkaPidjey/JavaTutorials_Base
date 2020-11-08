@@ -18,7 +18,7 @@
 #### [Собеседование по Java EE – Java Persistence API (JPA) (вопросы и ответы). Часть 2-->]( https://javastudy.ru/interview/jpa-questions-answers-2/ )
 #### [Hibernate Интервью Вопросы и ответы — ULTIMATE Список-->]( https://coderlessons.com/articles/java/hibernate-interviu-voprosy-i-otvety-ultimate-spisok )
 #### [36 уровень. Ответы на вопросы к собеседованию по теме уровня-->]( https://javarush.ru/groups/posts/1763-36-urovenjh---tozhe-ne-nashjel-otvetih-na-voprosih-iz-sobesedovaniy )
-#### [Название-->]( Ссылка )
+#### [Spring: вопросы к собеседованию-->]( https://habr.com/ru/post/350682/ )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
