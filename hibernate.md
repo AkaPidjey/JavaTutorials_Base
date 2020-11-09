@@ -337,7 +337,7 @@ JPA указывает что она может работать как с св�
 
 ### ---Info---
 #### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+#### [JPA & Hibernate pdf manual JM-->]( https://docs.google.com/document/d/1cfs-ZBOSbYTrBWkdzh1rhR4eeE1TSv6_yo5AfU1eBV4/edit# )
 #### [Package javax.persistence-->]( https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html )
 #### [Hibernate.org-->]( https://hibernate.org/orm/ )
 
@@ -392,6 +392,12 @@ JPA указывает что она может работать как с св�
 #### [Мета-данные. На пути к идеалам управления моделями данных-->]( https://habr.com/ru/post/90528/ )
 #### [Hibernate – Hibernate Query (HQL) примеры: SELECT, INSERT, UPDATE, DELETE-->]( https://javastudy.ru/hibernate/hibernate-hql-examples/ )
 #### [Язык запросов HQL-->]( http://java-online.ru/hibernate-hql.xhtml )
+#### [Hibernate — о чем молчат туториалы-->]( https://habr.com/ru/post/416851/ )
+#### [Связанные сущности в Hibernate-->]( http://java-online.ru/hibernate-entities.xhtml )
+#### [Название-->]( Ссылка )
+#### [Название-->]( Ссылка )
+#### [Название-->]( Ссылка )
+#### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 
