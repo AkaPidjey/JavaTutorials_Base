@@ -89,6 +89,12 @@ Maven-плагины позволяют вставлять в стандартн
 #### [Учебник Thymeleaf: Глава 2. Хорошая виртуальная бакалейная лавка Thymes-->]( https://habr.com/ru/post/350866/ )
 #### [Учебник Thymeleaf: Глава 3. Использование Text-->]( https://habr.com/ru/post/350868/ )
 #### [Руководство Spring Boot и Thymeleaf-->]( https://o7planning.org/ru/11545/spring-boot-and-thymeleaf-tutorial )
+#### [Pуководства Thymeleaf-->]( https://o7planning.org/ru/12345/thymeleaf )
+#### [YouTube/ITVDN/Движок HTML шаблонов Thymeleaf. Введение в Thymeleaf. Урок 1-->]( https://www.youtube.com/watch?v=NrTbzfeJcwc )
+#### [Название-->]( Ссылка )
+#### [Название-->]( Ссылка )
+#### [Название-->]( Ссылка )
+#### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 
 
