@@ -112,7 +112,7 @@ JavaBean - это объект Java, который удовлетворяет �
 
 #### [Youtube/alishev/Spring Framework. Урок 1: Введение. Зачем изучать Spring?-->]( https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&index=1 )
 #### [YouTube/TechTrain/Евгений Борисов — Spring Patterns-->]( https://www.youtube.com/watch?v=61duchvKI6o )
-#### [Название-->]( Ссылка )
+#### [YouTube/Eugene Suleimanov/Spring Security + База Данных. Регистрация и авторизация(2016)-->]( https://www.youtube.com/watch?v=iivY8B5A0Tk )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
 #### [Название-->]( Ссылка )
