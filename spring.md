@@ -125,7 +125,7 @@ JavaBean - это объект Java, который удовлетворяет �
 ### ---Info---
 ### ---Video---
 + [YouTube/Eugene Suleimanov/Spring Security + База Данных. Регистрация и авторизация(2016)-->]( https://www.youtube.com/watch?v=iivY8B5A0Tk )
-+ [YouTube/doIT/Веб-разработка на Java. Spring Security. Часть 1.-->]( https://www.youtube.com/watch?v=MH09q37wHUA )
++ [YouTube/doIT/Веб-разработка на Java. Spring Security. Часть 1.(2018)-->]( https://www.youtube.com/watch?v=MH09q37wHUA )
 ### ---Lessons---
 ### ---Forum---
 
