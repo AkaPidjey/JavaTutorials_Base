@@ -115,7 +115,34 @@ JavaBean - это объект Java, который удовлетворяет �
 ## Spring_Core
 ### ---Info---
 ### ---Video---
++ [Youtube/alishev/Spring Framework. Урок 1: Введение. Зачем изучать Spring?-->]( https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&index=1 )
++ [YouTube/TechTrain/Евгений Борисов — Spring Patterns-->]( https://www.youtube.com/watch?v=61duchvKI6o )
 ### ---Lessons---
++ [Что такое Spring Framework? От внедрения зависимостей до Web MVC-->]( https://habr.com/ru/post/490586/ )
++ [Подготовка к Spring Professional Certification. Контейнер, IoC, бины-->]( https://habr.com/ru/post/470305/ )
++ [Руководство по аннотациям Spring Framework-->]( https://coderlessons.com/articles/java/rukovodstvo-po-annotatsiiam-spring-framework )
++ [Spring Core Annotations-->]( https://www.codeflow.site/ru/article/spring-core-annotations )
++ [Understanding Dependencies-->]( https://habr.com/ru/post/349836/ )
++ [Dependency injection-->]( https://habr.com/ru/post/350068/ )
++ [Обратная сторона Spring-->]( https://habr.com/ru/post/334448/ )
++ [Spring изнутри. Этапы инициализации контекста-->]( https://habr.com/ru/post/222579/ )
++ [Как на самом деле работает @Transactional Spring?(2016)-->]( https://akorsa.ru/2016/08/kak-na-samom-dele-rabotaet-transactional-spring/ )
+### ---Forum---
+
+
+
+
+## Spring_MVC
+### ---Info---
+### ---Video---
+### ---Lessons---
++ [Знакомство с Maven, Spring, MySQL, Hibernate и первое CRUD приложение (часть 1)-->]( https://javarush.ru/groups/posts/2253-znakomstvo-s-maven-spring-mysql-hibernate-i-pervoe-crud-prilozhenie-chastjh-1 )
++ [Знакомство с Maven, Spring, MySQL, Hibernate и первое CRUD приложение (часть 2)-->]( https://javarush.ru/groups/posts/2252-znakomstvo-s-maven-spring-mysql-hibernate-i-pervoe-crud-prilozhenie-chastjh-2 )
++ [Знакомство с Maven, Spring, MySQL, Hibernate и первое CRUD приложение (часть 3)-->]( https://javarush.ru/groups/posts/2251-znakomstvo-s-maven-spring-mysql-hibernate-i-pervoe-crud-prilozhenie-chastjh-3 )
++ [Знакомство с Maven, Spring, MySQL, Hibernate и первое CRUD приложение (часть 4)-->]( https://javarush.ru/groups/posts/2250-znakomstvo-s-maven-spring-mysql-hibernate-i-pervoe-crud-prilozhenie-chastjh-4 )
++ [Spring MVC настройка без xml и web.xml-->]( https://java-master.com/spring-mvs-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7-xml-web-xml/ )
++ [Spring MVC 4 для начинающих. Базовые настройки. Подключение Bootstrap в Spring MVC.-->]( https://javastudy.ru/spring-mvc/spring-mvc-4-example-for-beginners/ )
++ [Spring MVC и аннотация @ModelAttribute-->](https://www.codeflow.site/ru/article/spring-mvc-and-the-modelattribute-annotation )
 ### ---Forum---
 
 
@@ -123,56 +150,55 @@ JavaBean - это объект Java, который удовлетворяет �
 
 ## Spring_Security
 ### ---Info---
++ [Online Bcrypt Hash Generator & Checker-->]( https://bcrypt-generator.com/ )
 ### ---Video---
 + [YouTube/Eugene Suleimanov/Spring Security + База Данных. Регистрация и авторизация(2016)-->]( https://www.youtube.com/watch?v=iivY8B5A0Tk )
 + [YouTube/doIT/Веб-разработка на Java. Spring Security. Часть 1.(2018)-->]( https://www.youtube.com/watch?v=MH09q37wHUA )
++ [YouTube/GrabDuck/Spring на практике - как настроить свой UserService в Spring Security-->]( https://www.youtube.com/watch?v=mX2kovQUQAo&list=PLaWfw53gNyzaDTEmrlCCj1jjqr6770Nnp&index=14)
 ### ---Lessons---
++ [Краткий обзор Spring Security-->]( https://habr.com/ru/post/203318/ )
++ [Быстрый старт в Spring Security-->]( https://devcolibri.com/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%82-%D0%B2-spring-security/ )
++ [Безопасность Web-приложения-->]( https://spring-projects.ru/guides/securing-web/ )
++ [Как устроена Аутентификация в Spring Security-->]( https://sysout.ru/kak-ustroena-autentifikatsiya-v-spring-security/ )
++ [Spring Security-->]( https://javastudy.ru/frameworks/spring/spring-security/ )
 ### ---Forum---
 
 
 
-
+## Spring_Boot
 ### ---Info---
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-
 ### ---Video---
-
-#### [Youtube/alishev/Spring Framework. Урок 1: Введение. Зачем изучать Spring?-->]( https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&index=1 )
-#### [YouTube/TechTrain/Евгений Борисов — Spring Patterns-->]( https://www.youtube.com/watch?v=61duchvKI6o )
-
-
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-
++ [YouTube/letsCode/Spring Boot: делаем простое веб приложение на Java (простой сайт)(2018)-->]( https://www.youtube.com/watch?v=jH17YkBTpI4&feature=youtu.be )
 ### ---Lessons---
-
-#### [Что такое Spring Framework? От внедрения зависимостей до Web MVC-->]( https://habr.com/ru/post/490586/ )
-#### [Подготовка к Spring Professional Certification. Контейнер, IoC, бины-->]( https://habr.com/ru/post/470305/ )
-#### [Руководство по аннотациям Spring Framework-->]( https://coderlessons.com/articles/java/rukovodstvo-po-annotatsiiam-spring-framework )
-#### [Spring Core Annotations-->]( https://www.codeflow.site/ru/article/spring-core-annotations )
-#### [Understanding Dependencies-->]( https://habr.com/ru/post/349836/ )
-#### [Dependency injection-->]( https://habr.com/ru/post/350068/ )
-#### [Обратная сторона Spring-->]( https://habr.com/ru/post/334448/ )
-#### [Знакомство с Maven, Spring, MySQL, Hibernate и первое CRUD приложение (часть 1)-->]( https://javarush.ru/groups/posts/2253-znakomstvo-s-maven-spring-mysql-hibernate-i-pervoe-crud-prilozhenie-chastjh-1 )
-#### [Знакомство с Maven, Spring, MySQL, Hibernate и первое CRUD приложение (часть 2)-->]( https://javarush.ru/groups/posts/2252-znakomstvo-s-maven-spring-mysql-hibernate-i-pervoe-crud-prilozhenie-chastjh-2 )
-#### [Знакомство с Maven, Spring, MySQL, Hibernate и первое CRUD приложение (часть 3)-->]( https://javarush.ru/groups/posts/2251-znakomstvo-s-maven-spring-mysql-hibernate-i-pervoe-crud-prilozhenie-chastjh-3 )
-#### [Знакомство с Maven, Spring, MySQL, Hibernate и первое CRUD приложение (часть 4)-->]( https://javarush.ru/groups/posts/2250-znakomstvo-s-maven-spring-mysql-hibernate-i-pervoe-crud-prilozhenie-chastjh-4 )
-#### [Spring MVC настройка без xml и web.xml-->]( https://java-master.com/spring-mvs-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7-xml-web-xml/ )
-#### [Spring изнутри. Этапы инициализации контекста-->]( https://habr.com/ru/post/222579/ )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-
++ [Spring Boot + Thymeleaf CRUD Example-->]( https://www.dariawan.com/tutorials/spring/spring-boot-thymeleaf-crud-example/ )
++ [Cascade Types (пример на Hibernate и Spring Boot)-->]( https://sysout.ru/tipy-cascade-primer-na-hibernate-i-spring-boot/ )
 ### ---Forum---
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+
+
+
+
+
+
+
+
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
+
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
 
 [к оглавлению](#spring)
