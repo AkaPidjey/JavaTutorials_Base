@@ -159,6 +159,8 @@ JavaBean - это объект Java, который удовлетворяет �
 + [Краткий обзор Spring Security-->]( https://habr.com/ru/post/203318/ )
 + [Быстрый старт в Spring Security-->]( https://devcolibri.com/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%82-%D0%B2-spring-security/ )
 + [Безопасность Web-приложения-->]( https://spring-projects.ru/guides/securing-web/ )
++ [Добавление Spring Security в проект – настройки по умолчанию(2020)-->]( https://sysout.ru/dobavlenie-spring-security-v-proekt-nastrojki-po-umolchaniyu/ )
++ [Как настроить авторизацию в Spring Security(2020)-->]( https://sysout.ru/kak-nastroit-avtorizatsiyu-v-spring-security/ )
 + [Как устроена Аутентификация в Spring Security-->]( https://sysout.ru/kak-ustroena-autentifikatsiya-v-spring-security/ )
 + [Spring Security-->]( https://javastudy.ru/frameworks/spring/spring-security/ )
 ### ---Forum---
@@ -181,8 +183,7 @@ JavaBean - это объект Java, который удовлетворяет �
 
 
 
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
+
 + [Название-->]( Ссылка )
 
 
