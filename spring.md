@@ -19,6 +19,9 @@
 
 [к оглавлению](#spring)
 
+
+
+
 ## Что такое бины?
 Начнем срывать покровы с самых базовых понятий Spring. Бин (bean) — это не что иное, как самый обычный объект. Разница лишь в том, что бинами принято называть те объекты, которые управляются Spring-ом и живут внутри его DI-контейнера. Бином является почти все в Spring — сервисы, контроллеры, репозитории, по сути все приложение состоит из набора бинов. Их можно регистрировать, получать в качестве зависимостей, проксировать, мокать и т.п.
 
@@ -113,6 +116,7 @@ JavaBean - это объект Java, который удовлетворяет �
 
 
 ## Spring_Core
+
 ### ---Info---
 ### ---Video---
 + [Youtube/alishev/Spring Framework. Урок 1: Введение. Зачем изучать Spring?-->]( https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&index=1 )
@@ -127,12 +131,15 @@ JavaBean - это объект Java, который удовлетворяет �
 + [Обратная сторона Spring-->]( https://habr.com/ru/post/334448/ )
 + [Spring изнутри. Этапы инициализации контекста-->]( https://habr.com/ru/post/222579/ )
 + [Как на самом деле работает @Transactional Spring?(2016)-->]( https://akorsa.ru/2016/08/kak-na-samom-dele-rabotaet-transactional-spring/ )
++ [Валидация и обработка исключений с помощью Spring(2020)-->]( https://habr.com/ru/post/523888/ )
++ [Из резюме джуна: Spring Framework — популярный фреймворк на Java(2020)-->]( https://javarush.ru/groups/posts/2921-iz-rezjume-dzhuna-spring-framework--populjarnihy-freymvork-na-java )
 ### ---Forum---
 
 
 
 
 ## Spring_MVC
+
 ### ---Info---
 ### ---Video---
 ### ---Lessons---
@@ -149,6 +156,7 @@ JavaBean - это объект Java, который удовлетворяет �
 
 
 ## Spring_Security
+
 ### ---Info---
 + [Online Bcrypt Hash Generator & Checker-->]( https://bcrypt-generator.com/ )
 ### ---Video---
@@ -157,7 +165,7 @@ JavaBean - это объект Java, который удовлетворяет �
 + [YouTube/GrabDuck/Spring на практике - как настроить свой UserService в Spring Security-->]( https://www.youtube.com/watch?v=mX2kovQUQAo&list=PLaWfw53gNyzaDTEmrlCCj1jjqr6770Nnp&index=14)
 ### ---Lessons---
 + [Краткий обзор Spring Security-->]( https://habr.com/ru/post/203318/ )
-+ [Быстрый старт в Spring Security-->]( https://devcolibri.com/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%82-%D0%B2-spring-security/ )
++ [Быстрый старт в Spring Security(2014)-->]( https://devcolibri.com/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%82-%D0%B2-spring-security/ )
 + [Безопасность Web-приложения-->]( https://spring-projects.ru/guides/securing-web/ )
 + [Добавление Spring Security в проект – настройки по умолчанию(2020)-->]( https://sysout.ru/dobavlenie-spring-security-v-proekt-nastrojki-po-umolchaniyu/ )
 + [Как настроить авторизацию в Spring Security(2020)-->]( https://sysout.ru/kak-nastroit-avtorizatsiyu-v-spring-security/ )
@@ -170,12 +178,17 @@ JavaBean - это объект Java, который удовлетворяет �
 
 
 ## Spring_Boot
+
 ### ---Info---
 ### ---Video---
 + [YouTube/letsCode/Spring Boot: делаем простое веб приложение на Java (простой сайт)(2018)-->]( https://www.youtube.com/watch?v=jH17YkBTpI4&feature=youtu.be )
 ### ---Lessons---
 + [Spring Boot + Thymeleaf CRUD Example-->]( https://www.dariawan.com/tutorials/spring/spring-boot-thymeleaf-crud-example/ )
 + [Cascade Types (пример на Hibernate и Spring Boot)-->]( https://sysout.ru/tipy-cascade-primer-na-hibernate-i-spring-boot/ )
++ [Spring Boot + Spring MVC + Role Based Spring Security + JPA + Thymeleaf + MySQL Tutorial(2019)-->]( https://www.javaguides.net/2018/09/spring-boot-spring-mvc-role-based-spring-security-jpa-thymeleaf-mysql-tutorial.html )
++ [Spring Boot CRUD Application with Thymeleaf-->]( https://www.baeldung.com/spring-boot-crud-thymeleaf )
++ [Стоит ли использовать Spring Boot в вашем следующем проекте?(2014)-->]( https://habr.com/ru/post/244531/ )
++ [Из резюме джуна: Spring Boot — «волшебный» фреймворк Java(2020)-->]( https://javarush.ru/groups/posts/2930-iz-rezjume-dzhuna-spring-boot--volshebnihy-freymvork-java )
 ### ---Forum---
 
 
@@ -187,15 +200,24 @@ JavaBean - это объект Java, который удовлетворяет �
 
 
 
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
+
+
+
+
+
+
 
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
-
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
