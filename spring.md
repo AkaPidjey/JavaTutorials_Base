@@ -133,6 +133,8 @@ JavaBean - это объект Java, который удовлетворяет �
 + [Как на самом деле работает @Transactional Spring?(2016)-->]( https://akorsa.ru/2016/08/kak-na-samom-dele-rabotaet-transactional-spring/ )
 + [Валидация и обработка исключений с помощью Spring(2020)-->]( https://habr.com/ru/post/523888/ )
 + [Из резюме джуна: Spring Framework — популярный фреймворк на Java(2020)-->]( https://javarush.ru/groups/posts/2921-iz-rezjume-dzhuna-spring-framework--populjarnihy-freymvork-na-java )
++ [Spring для ленивых. Основы, базовые концепции и примеры с кодом. Часть 1(2018)-->]( https://javarush.ru/groups/posts/spring-framework-java-1 )
++ [Spring для ленивых. Основы, базовые концепции и примеры с кодом. Часть 2(2018)-->]( https://javarush.ru/groups/posts/477-spring-dlja-lenivihkh-osnovih-bazovihe-koncepcii-i-primerih-s-kodom-chastjh-2 )
 ### ---Forum---
 
 
@@ -189,6 +191,7 @@ JavaBean - это объект Java, который удовлетворяет �
 + [Spring Boot CRUD Application with Thymeleaf-->]( https://www.baeldung.com/spring-boot-crud-thymeleaf )
 + [Стоит ли использовать Spring Boot в вашем следующем проекте?(2014)-->]( https://habr.com/ru/post/244531/ )
 + [Из резюме джуна: Spring Boot — «волшебный» фреймворк Java(2020)-->]( https://javarush.ru/groups/posts/2930-iz-rezjume-dzhuna-spring-boot--volshebnihy-freymvork-java )
++ [Завоевание Spring Boot(2018)-->]( https://javarush.ru/groups/posts/497-zavoevanie-spring-boot )
 ### ---Forum---
 
 
@@ -207,9 +210,8 @@ JavaBean - это объект Java, который удовлетворяет �
 
 
 
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
+
+
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
