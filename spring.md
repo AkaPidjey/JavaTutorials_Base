@@ -182,6 +182,8 @@ JavaBean - это объект Java, который удовлетворяет �
 ## Spring_Boot
 
 ### ---Info---
++ [Spring Boot — Краткое руководство(2019)-->]( https://coderlessons.com/tutorials/java-tekhnologii/learn-spring-boot/spring-boot-kratkoe-rukovodstvo )
++ [Руководства Spring Boot-->]( https://o7planning.org/ru/11669/spring-boot )
 ### ---Video---
 + [YouTube/letsCode/Spring Boot: делаем простое веб приложение на Java (простой сайт)(2018)-->]( https://www.youtube.com/watch?v=jH17YkBTpI4&feature=youtu.be )
 ### ---Lessons---
@@ -192,6 +194,8 @@ JavaBean - это объект Java, который удовлетворяет �
 + [Стоит ли использовать Spring Boot в вашем следующем проекте?(2014)-->]( https://habr.com/ru/post/244531/ )
 + [Из резюме джуна: Spring Boot — «волшебный» фреймворк Java(2020)-->]( https://javarush.ru/groups/posts/2930-iz-rezjume-dzhuna-spring-boot--volshebnihy-freymvork-java )
 + [Завоевание Spring Boot(2018)-->]( https://javarush.ru/groups/posts/497-zavoevanie-spring-boot )
++ [Руководство Spring Boot для начинающих-->]( https://o7planning.org/ru/11267/spring-boot-tutorial-for-beginners )
++ [Знакомство со Spring Boot-->]( https://topjava.ru/blog/introducing-spring-boot )
 ### ---Forum---
 
 
@@ -212,10 +216,10 @@ JavaBean - это объект Java, который удовлетворяет �
 
 
 
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
+
+
+
+
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
