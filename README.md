@@ -12,7 +12,8 @@
 + [Java Core. Обобщения(Generics)](generics.md) :white_check_mark:
 + [Java Core. Функциональные интерфейсы](functionalInterface.md) :white_check_mark:
 + [Java Core. Stream API & Лямбда-выражения](streamApi.md) :white_check_mark:
-+ [Java. JDBC API](jdbc.md) :white_check_mark:
++ [Java JDBC API](jdbc.md) :white_check_mark:
++ [Java Servlet API](servlet.md)
 + [Java Framework. Collections](collections.md) :white_check_mark:
 + [Java Framework. Hibernate](hibernate.md)   :white_check_mark:
 + [Java Framework. Spring](spring.md)
