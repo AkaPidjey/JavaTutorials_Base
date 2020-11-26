@@ -182,10 +182,27 @@ JavaBean - это объект Java, который удовлетворяет �
 ## Spring_Boot
 
 ### ---Info---
+
 + [Spring Boot — Краткое руководство(2019)-->]( https://coderlessons.com/tutorials/java-tekhnologii/learn-spring-boot/spring-boot-kratkoe-rukovodstvo )
 + [Руководства Spring Boot-->]( https://o7planning.org/ru/11669/spring-boot )
 ### ---Video---
+
+#### Playlist YouTube/Гоша Дударь/Разработка сайта на Java Spring Boot(2020)
++ [Playlist/Разработка сайта на Java Spring Boot-->]( https://www.youtube.com/watch?v=FyZFK4LBjj0&list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw )
++ [YouTube/Гоша Дударь/Уроки Java Spring Boot / #1 - Создание веб-сайта на Java(2020)-->]( https://www.youtube.com/watch?v=FyZFK4LBjj0 )
++ [YouTube/Гоша Дударь/Уроки Java Spring Boot / #2 - Главная страница сайта(2020)-->]( https://www.youtube.com/watch?v=5s50Zj8YIE8 )
++ [YouTube/Гоша Дударь/Уроки Java Spring Boot / #3 - Разработка раздела «Блог»(2020)-->]( https://www.youtube.com/watch?v=S1oOMJorZ2w )
++ [YouTube/Гоша Дударь/Уроки Java Spring Boot / #4 - Работа с базой данных MySQL. Создание модели(2020)-->]( https://www.youtube.com/watch?v=oGK2KufvxM0 )
++ [YouTube/Гоша Дударь/Уроки Java Spring Boot / #5 - Форма добавления записей через сайт(2020)-->]( https://www.youtube.com/watch?v=sPH58lbzYvo )
++ [YouTube/Гоша Дударь/Уроки Java Spring Boot / #6 - Вывод каждой из статей(2020)-->]( https://www.youtube.com/watch?v=ZJUAR8Xe6CY )
++ [YouTube/Гоша Дударь/Уроки Java Spring Boot / #7 - Редактирование и удаление(2020)-->]( https://www.youtube.com/watch?v=R3YNPm7ZmYY )
+
+#### Playlist YouTube/letsCode/Spring Boot 2(2018)
 + [YouTube/letsCode/Spring Boot: делаем простое веб приложение на Java (простой сайт)(2018)-->]( https://www.youtube.com/watch?v=jH17YkBTpI4&feature=youtu.be )
++ [YouTube/letsCode/Spring Boot JPA (Hibernate): добавляем базу данных в веб приложение на Java (простой сайт)(2018)-->]( https://www.youtube.com/watch?v=nyFLX3q3poY )
+
++ [YouTube/GrabDuck!/Spring на практике - Как настроить Spring Security в Spring Boot-->]( https://www.youtube.com/watch?v=Tq9pY8hPjTk )
+
 ### ---Lessons---
 + [Spring Boot + Thymeleaf CRUD Example-->]( https://www.dariawan.com/tutorials/spring/spring-boot-thymeleaf-crud-example/ )
 + [Cascade Types (пример на Hibernate и Spring Boot)-->]( https://sysout.ru/tipy-cascade-primer-na-hibernate-i-spring-boot/ )
@@ -220,6 +237,16 @@ JavaBean - это объект Java, который удовлетворяет �
 
 
 
++ [Урок 1. Знакомство со Spring Boot-->]( https://vk.com/video-111905078_456244474 )
++ [Уроки Java Spring Boot ⁄ Урок 3 - Разработка раздела «Блог»-->]( https://vk.com/video-111905078_456245558 )
+
+
+
+
+
+
+
++ [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
