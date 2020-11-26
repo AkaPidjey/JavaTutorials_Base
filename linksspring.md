@@ -91,9 +91,10 @@
 
 + [Spring Boot — Краткое руководство(2019)-->]( https://coderlessons.com/tutorials/java-tekhnologii/learn-spring-boot/spring-boot-kratkoe-rukovodstvo )
 + [Руководства Spring Boot-->]( https://o7planning.org/ru/11669/spring-boot )
+
 ### ---Video---
 
-#### Playlist YouTube/Гоша Дударь/Разработка сайта на Java Spring Boot(2020)
+#### Playlist/YouTube/Гоша Дударь/Разработка сайта на Java Spring Boot(2020)
 + [Playlist/Разработка сайта на Java Spring Boot-->]( https://www.youtube.com/watch?v=FyZFK4LBjj0&list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw )
 + [YouTube/Гоша Дударь/Уроки Java Spring Boot / #1 - Создание веб-сайта на Java(2020)-->]( https://www.youtube.com/watch?v=FyZFK4LBjj0 )
 + [YouTube/Гоша Дударь/Уроки Java Spring Boot / #2 - Главная страница сайта(2020)-->]( https://www.youtube.com/watch?v=5s50Zj8YIE8 )
@@ -103,10 +104,11 @@
 + [YouTube/Гоша Дударь/Уроки Java Spring Boot / #6 - Вывод каждой из статей(2020)-->]( https://www.youtube.com/watch?v=ZJUAR8Xe6CY )
 + [YouTube/Гоша Дударь/Уроки Java Spring Boot / #7 - Редактирование и удаление(2020)-->]( https://www.youtube.com/watch?v=R3YNPm7ZmYY )
 
-#### Playlist YouTube/letsCode/Spring Boot 2(2018)
+#### Playlist/YouTube/letsCode/Spring Boot 2(2018)
 + [YouTube/letsCode/Spring Boot: делаем простое веб приложение на Java (простой сайт)(2018)-->]( https://www.youtube.com/watch?v=jH17YkBTpI4&feature=youtu.be )
 + [YouTube/letsCode/Spring Boot JPA (Hibernate): добавляем базу данных в веб приложение на Java (простой сайт)(2018)-->]( https://www.youtube.com/watch?v=nyFLX3q3poY )
 
+#### All video
 + [YouTube/GrabDuck!/Spring на практике - Как настроить Spring Security в Spring Boot-->]( https://www.youtube.com/watch?v=Tq9pY8hPjTk )
 + [Урок 1. Знакомство со Spring Boot-->]( https://vk.com/video-111905078_456244474 )
 + [Уроки Java Spring Boot ⁄ Урок 3 - Разработка раздела «Блог»-->]( https://vk.com/video-111905078_456245558 )
