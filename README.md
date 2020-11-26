@@ -17,6 +17,7 @@
 + [Java Framework. Collections](collections.md) :white_check_mark:
 + [Java Framework. Hibernate](hibernate.md)   :white_check_mark:
 + [Java Framework. Spring](spring.md)
++ [LINKS for Spring Framework](linksspring.md)
 + [Java Design Patterns](patterns.md)
 + [Various frameworks and plugins](frameworks.md)
 + [Testing](testing.md)
