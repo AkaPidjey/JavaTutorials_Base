@@ -143,14 +143,20 @@ __Сессия__ — это диалоговое состояние между �
 ### ---Info---
 ### ---Video---
 ### ---Lessons---
-+ [Часть 3. Протоколы HTTP/HTTPS(2020)-->]( https://javarush.ru/groups/posts/2521-chastjh-3-protokolih-httphttps )
+
++ [#JavaRush/Часть 1. Что нужно знать перед изучением Spring и JavaEE(2020)-->]( https://javarush.ru/groups/posts/2514-vvedenie-v-enterprise-razrabotku )
++ [#JavaRush/Часть 2. Поговорим немного об архитектуре ПО(2020)-->]( https://javarush.ru/groups/posts/2519-chastjh-2-pogovorim-nemnogo-ob-arkhitekture-po )
++ [#JavaRush/Часть 3. Протоколы HTTP/HTTPS(2020)-->]( https://javarush.ru/groups/posts/2521-chastjh-3-protokolih-httphttps )
++ [#JavaRush/Часть 4. Основы Maven(2020)-->]( https://javarush.ru/groups/posts/2523-chastjh-4osnovih-maven )
++ [#JavaRush/Часть 5. Сервлеты, Java servlet API. Пишем простое веб-приложение(2020)-->]( https://javarush.ru/groups/posts/2529-chastjh-5-servletih-pishem-prostoe-veb-prilozhenie )
++ [#JavaRush/Часть 6. Контейнеры сервлетов(2020)-->]( https://javarush.ru/groups/posts/2533-chastjh-6-konteynerih-servletov )
++ [#JavaRush/Часть 7. Знакомство с паттерном MVC (Model-View-Controller)(2020)-->]( https://javarush.ru/groups/posts/2536-chastjh-7-znakomstvo-s-patternom-mvc-model-view-controller )
++ [#JavaRush/Часть 8. Пишем небольшое приложение на spring-boot(2020)-->]( https://javarush.ru/groups/posts/2537-chastjh-8-pishem-neboljhshoe-prilozhenie-na-spring-boot )
+
 ### ---Forum---
 
 
 
-
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
