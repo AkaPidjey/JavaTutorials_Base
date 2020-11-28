@@ -72,10 +72,42 @@ __Ways to Dependency Injection(DI):__
 + 2.Using setters
 + 3.Autowiring
 
+__Bean scope:__
++ Bean lifecycle
++ Possible number of beans to create
 
+__Varieties of bean scope:__
++ singletone (default)
++ prototype (statefull)
++ request
++ session
++ global-session
 
+__Bean lifecycle:__
++ 1.App startup
++ 2.Start of work Spring Container
++ 3.Creating a bean
++ 4.Dependency Injection
++ 5.`Init-method`(If they have)
++ 6.The Bean is ready to use
++ 7.Our use of this Bean
++ 8.End of work Spring Container
++ 9.`Destroy-method`(If they have)
++ 10.Stopping the app
 
+__Configuration using annotations:__
++ @Component("/id/") - Indicates the desired class when scanning
++ @Autowired - Needed for dependency injection
 
+__Dependency injection is performed:__
++ 1.using the constructor
++ 2.using the setter
++ 3.using the field
+
+__The process of dependency injection when using an @Autowired annotation:__
+1. Scanning the package, searching for classes with the @Component annotation.
+2. If the @Autowired annotation is present, the search for a suitable bean type begins.
+3. What happens next dependency injection.
 
 
 + [к оглавлению](#spring)
