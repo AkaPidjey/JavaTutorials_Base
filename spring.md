@@ -64,6 +64,20 @@ __Configuration methods Spring Container:__
 + 2.Annotations + XML file
 + 3.Java code
 
+__Spring Bean__ - This is an object that is created and managed by Spring Container.
+__Application Context__ - it consists of Spring Container.
+
+__Ways to Dependency Injection(DI):__
++ 1.Using the constructor
++ 2.Using setters
++ 3.Autowiring
+
+
+
+
+
+
+
 + [к оглавлению](#spring)
 
 ## Что такое Spring? Чем фреймворк отличается от библиотеки?
