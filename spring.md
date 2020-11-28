@@ -55,6 +55,26 @@
 # Spring Core
 
 ## My summary of spring studies
+
+__Configuration using annotations:__
+Spring Core
++ @Component("/id/") - Indicates the desired class when scanning
++ @Autowired - Needed for dependency injection
++ @Qualifier("/dog/") - Used to specify which bean to embed dependencies in
++ @Value("/Sidorov/") - Used for embedding values in fields
++ @Scope("prototype") - Used to specify the scope of the bean
++ @PostConstruct - Used to specify the init-method
++ @PreDestroy - Used to specify the destroy-method 
++ @Comfiguration - Indicates that this class is a configuration
++ @ComponentScan("/web/") - Shows which package to scan for beans and different annotations
++ @Bean - To create a bean manually
++ @PropertySource("classpath:myApp.properties") - Shows to the property file where we can use values for fields
+Spring AOP
++ @EnabkeAspectJAutoProxy - Allows us to use Spring AOP Proxy behind the scenes
++ @Aspect - Indicates that this is not a regular class, but an Aspect
++ @Before("execution(public void getBook())") - Executed before the method with the main logic
+
+Spring Core
 __Main function Spring Container:__ 
 + __1.IoC__ Inversion of control. The creation and management of objects
 + __2.DI__ Dependency Injection.
@@ -95,10 +115,6 @@ __Bean lifecycle:__
 + 9.`Destroy-method`(If they have)
 + 10.Stopping the app
 
-__Configuration using annotations:__
-+ @Component("/id/") - Indicates the desired class when scanning
-+ @Autowired - Needed for dependency injection
-
 __Dependency injection is performed:__
 + 1.using the constructor
 + 2.using the setter
@@ -108,6 +124,22 @@ __The process of dependency injection when using an @Autowired annotation:__
 1. Scanning the package, searching for classes with the @Component annotation.
 2. If the @Autowired annotation is present, the search for a suitable bean type begins.
 3. What happens next dependency injection.
+
+Spring AOP
+
+__Advice__ - A method that is contained in Aspect and contains end-to-end logic
+__Pointcut__- Expression describing where Advice should be applied
+
+__Advice types in AOP__
++ Before - Executed before the method with the main logic
++ After returning - Executed only after the normal end of the method with the main logic
++ After throwing - Executed after the end of the method with the main logic only if an exception was thrown
++ After/After finally - Always executed after the end of the method with the main logic
++ Around - Executed before and after the method with the main logic
+
+__Pointcut template__
+__execution(__ modifiers-pattern? __return-type-pattern__ declaring-type-pattern? 
+__method-name-pattern(parameters-pattern)__ throws-pattern? __)__
 
 
 + [к оглавлению](#spring)
