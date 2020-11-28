@@ -57,7 +57,7 @@
 ## My summary of spring studies
 
 __Configuration using annotations:__
-Spring Core
+### Spring Core
 + @Component("/id/") - Indicates the desired class when scanning
 + @Autowired - Needed for dependency injection
 + @Qualifier("/dog/") - Used to specify which bean to embed dependencies in
@@ -69,7 +69,7 @@ Spring Core
 + @ComponentScan("/web/") - Shows which package to scan for beans and different annotations
 + @Bean - To create a bean manually
 + @PropertySource("classpath:myApp.properties") - Shows to the property file where we can use values for fields
-Spring AOP
+### Spring AOP
 + @EnabkeAspectJAutoProxy - Allows us to use Spring AOP Proxy behind the scenes
 + @Aspect - Indicates that this is not a regular class, but an Aspect
 + @Before("execution(public void getBook())") - Executed before the method with the main logic
