@@ -3,6 +3,7 @@
 # Spring
 
 ## Spring Core
++ [My summary of spring studies](#My-summary-of-spring-studies)
 + [Что такое Spring? Чем фреймворк отличается от библиотеки?](#Что-такое-Spring-Чем-фреймворк-отличается-от-библиотеки)
 + [Что такое бины?](#Что-такое-бины)
 + [Назовите способы создания бинов?](#Назовите-способы-создания-бинов)
@@ -52,6 +53,18 @@
 
 
 # Spring Core
+
+## My summary of spring studies
+__Main function Spring Container:__ 
++ __1.IoC__ Inversion of control. The creation and management of objects
++ __2.DI__ Dependency Injection.
+
+__Configuration methods Spring Container:__ 
++ 1.XML file
++ 2.Annotations + XML file
++ 3.Java code
+
++ [к оглавлению](#spring)
 
 ## Что такое Spring? Чем фреймворк отличается от библиотеки?
 Spring Framework - представляет собой просто контейнер внедрения зависимостей, с несколькими удобными слоями (например: доступ к базе данных, прокси, аспектно-ориентированное программирование, RPC, веб-инфраструктура MVC). Это все позволяет вам быстрее и удобнее создавать Java-приложения.
