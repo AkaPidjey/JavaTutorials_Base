@@ -69,12 +69,20 @@ __Configuration using annotations:__
 + @ComponentScan("/web/") - Shows which package to scan for beans and different annotations
 + @Bean - To create a bean manually
 + @PropertySource("classpath:myApp.properties") - Shows to the property file where we can use values for fields
++ @Order(2) - Used for ordering elements
 ### Spring AOP
 + @EnabkeAspectJAutoProxy - Allows us to use Spring AOP Proxy behind the scenes
 + @Aspect - Indicates that this is not a regular class, but an Aspect
 + @Before("execution(public void getBook())") - Executed before the method with the main logic
++ @AfterReturning - It is executed only after the normal completion of the method with the main logic, but before assigning the result of this method to any variable
++ @Pointcut("pointcut_expression") - Ad Pointcut
+
 
 Spring Core
+
++ __Spring Bean__ - This is an object that is created and managed by Spring Container.
++ __Application Context__ - it consists of Spring Container.
+
 __Main function Spring Container:__ 
 + __1.IoC__ Inversion of control. The creation and management of objects
 + __2.DI__ Dependency Injection.
@@ -83,9 +91,6 @@ __Configuration methods Spring Container:__
 + 1.XML file
 + 2.Annotations + XML file
 + 3.Java code
-
-__Spring Bean__ - This is an object that is created and managed by Spring Container.
-__Application Context__ - it consists of Spring Container.
 
 __Ways to Dependency Injection(DI):__
 + 1.Using the constructor
@@ -127,12 +132,13 @@ __The process of dependency injection when using an @Autowired annotation:__
 
 Spring AOP
 
-__Advice__ - A method that is contained in Aspect and contains end-to-end logic
-__Pointcut__- Expression describing where Advice should be applied
++ __Advice__ - A method that is contained in Aspect and contains end-to-end logic.
++ __Pointcut__- Expression describing where Advice should be applied.
++ __Join Point__ - The point in the program when to apply Advice. The intersection point of a method with business logic and a method with service functionality.
 
 __Advice types in AOP__
 + Before - Executed before the method with the main logic
-+ After returning - Executed only after the normal end of the method with the main logic
++ After returning - It is executed only after the normal completion of the method with the main logic, but before assigning the result of this method to any variable
 + After throwing - Executed after the end of the method with the main logic only if an exception was thrown
 + After/After finally - Always executed after the end of the method with the main logic
 + Around - Executed before and after the method with the main logic
