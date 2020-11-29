@@ -75,8 +75,18 @@ __Configuration using annotations:__
 + @Aspect - Indicates that this is not a regular class, but an Aspect
 + @Before("execution(public void getBook())") - Executed before the method with the main logic
 + @AfterReturning - It is executed only after the normal completion of the method with the main logic, but before assigning the result of this method to any variable
++ @AfterThrowing - Executed after the end of the method with the main logic only if an exception was thrown
++ @After - Always executed after the end of the method with the main logic
++ @Around - Executed before and after the method with the main logic
 + @Pointcut("pointcut_expression") - Ad Pointcut
-
+### Hibernate
++ @Entity - An annotation that reflects information from a specific table in the database
++ @Table(name="employees") - Indicates that the class displays a specific table
++ @Column(name="id") - Indicates which column from the table we are binding the class field to
++ @Id - Indicates that in the table, the column associated with this field is Primary Key
++ @GeneratedValue(strategy = GenerationType.IDENTITY) - Describes a strategy for generating values for a column with Primary Key
++ @OneToOne - Indicates the type of relationship between objects
++ @JoinColumn(name="details_id") - Points to a column that links to another object
 
 Spring Core
 
@@ -109,21 +119,21 @@ __Varieties of bean scope:__
 + global-session
 
 __Bean lifecycle:__
-+ 1.App startup
-+ 2.Start of work Spring Container
-+ 3.Creating a bean
-+ 4.Dependency Injection
-+ 5.`Init-method`(If they have)
-+ 6.The Bean is ready to use
-+ 7.Our use of this Bean
-+ 8.End of work Spring Container
-+ 9.`Destroy-method`(If they have)
-+ 10.Stopping the app
+1.App startup
+2.Start of work Spring Container
+3.Creating a bean
+4.Dependency Injection
+5.`Init-method`(If they have)
+6.The Bean is ready to use
+7.Our use of this Bean
+8.End of work Spring Container
+9.`Destroy-method`(If they have)
+10.Stopping the app
 
 __Dependency injection is performed:__
-+ 1.using the constructor
-+ 2.using the setter
-+ 3.using the field
+1.using the constructor
+2.using the setter
+3.using the field
 
 __The process of dependency injection when using an @Autowired annotation:__
 1. Scanning the package, searching for classes with the @Component annotation.
@@ -135,6 +145,7 @@ Spring AOP
 + __Advice__ - A method that is contained in Aspect and contains end-to-end logic.
 + __Pointcut__- Expression describing where Advice should be applied.
 + __Join Point__ - The point in the program when to apply Advice. The intersection point of a method with business logic and a method with service functionality.
++ __ProceedingJoinPoint__ - Required for calling the target method
 
 __Advice types in AOP__
 + Before - Executed before the method with the main logic
