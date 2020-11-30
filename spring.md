@@ -93,9 +93,13 @@ __Configuration using annotations:__
 + @JoinTable(name="child_section", joinColumns = @JoinColumn(name="child_id"), inverseJoinColumns = @JoinColumn(name="section_id")) - Enter the name of the table that performs the role of Join Table
 ### Spring MVC
 + @Controller - Specialized @Component
++ @Repository - Specialized @Component. This annotation is used for the DAO 
++ @Service - Specialized @Component. Marks a class that contains business logic. Service is the connecting link between the Controller and the DAO
 + @RequestMapping("/") - Binds the URL to the controller method
 + @RequestParam("employeName") - Allows us to associate a form field with a method parameter from the controller
 + @ModelAttribute("employee") - When it is in a controller method parameter, it gives access to a specific attribute of the model
++ @Transactional - Spring takes responsibility for opening and closing transactions
+
 
 Spring Core
 
