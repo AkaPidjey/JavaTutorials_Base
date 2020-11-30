@@ -90,6 +90,11 @@ __Configuration using annotations:__
 + @ManyToOne - Indicates the type of relationship between objects
 + @ManyToMany - Indicates the type of relationship between objects
 + @JoinColumn(name="details_id") - Points to a column that links to another object. Will always refer to the field with the Foreign Key
++ @JoinTable(name="child_section", joinColumns = @JoinColumn(name="child_id"), inverseJoinColumns = @JoinColumn(name="section_id")) - Enter the name of the table that performs the role of Join Table
+### Spring MVC
++ @Controller - Specialized @Component
++ @RequestMapping("/") - Binds the URL to the controller method
+
 
 Spring Core
 
@@ -160,6 +165,8 @@ __Advice types in AOP__
 __Pointcut template__
 __execution(__ modifiers-pattern? __return-type-pattern__ declaring-type-pattern? 
 __method-name-pattern(parameters-pattern)__ throws-pattern? __)__
+
+Hibernate
 
 __Loading type:__
 1. fetch = FetchType.EAGER - When using the related entities are loaded at once together with the download of the primary entity
