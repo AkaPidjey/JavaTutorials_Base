@@ -86,7 +86,10 @@ __Configuration using annotations:__
 + @Id - Indicates that in the table, the column associated with this field is Primary Key
 + @GeneratedValue(strategy = GenerationType.IDENTITY) - Describes a strategy for generating values for a column with Primary Key
 + @OneToOne - Indicates the type of relationship between objects
-+ @JoinColumn(name="details_id") - Points to a column that links to another object
++ @OneToMany - Indicates the type of relationship between objects
++ @ManyToOne - Indicates the type of relationship between objects
++ @ManyToMany - Indicates the type of relationship between objects
++ @JoinColumn(name="details_id") - Points to a column that links to another object. Will always refer to the field with the Foreign Key
 
 Spring Core
 
@@ -94,18 +97,18 @@ Spring Core
 + __Application Context__ - it consists of Spring Container.
 
 __Main function Spring Container:__ 
-+ __1.IoC__ Inversion of control. The creation and management of objects
-+ __2.DI__ Dependency Injection.
+__1. IoC__ Inversion of control. The creation and management of objects
+__2. DI__ Dependency Injection.
 
 __Configuration methods Spring Container:__ 
-+ 1.XML file
-+ 2.Annotations + XML file
-+ 3.Java code
+1. XML file
+2. Annotations + XML file
+3. Java code
 
 __Ways to Dependency Injection(DI):__
-+ 1.Using the constructor
-+ 2.Using setters
-+ 3.Autowiring
+1. Using the constructor
+2. Using setters
+3. Autowiring
 
 __Bean scope:__
 + Bean lifecycle
@@ -119,21 +122,21 @@ __Varieties of bean scope:__
 + global-session
 
 __Bean lifecycle:__
-1.App startup
-2.Start of work Spring Container
-3.Creating a bean
-4.Dependency Injection
-5.`Init-method`(If they have)
-6.The Bean is ready to use
-7.Our use of this Bean
-8.End of work Spring Container
-9.`Destroy-method`(If they have)
-10.Stopping the app
+1. App startup
+2. Start of work Spring Container
+3. Creating a bean
+4. Dependency Injection
+5. `Init-method`(If they have)
+6. The Bean is ready to use
+7. Our use of this Bean
+8. End of work Spring Container
+9. `Destroy-method`(If they have)
+10. Stopping the app
 
 __Dependency injection is performed:__
-1.using the constructor
-2.using the setter
-3.using the field
+1. using the constructor
+2. using the setter
+3. using the field
 
 __The process of dependency injection when using an @Autowired annotation:__
 1. Scanning the package, searching for classes with the @Component annotation.
@@ -158,6 +161,15 @@ __Pointcut template__
 __execution(__ modifiers-pattern? __return-type-pattern__ declaring-type-pattern? 
 __method-name-pattern(parameters-pattern)__ throws-pattern? __)__
 
+__Loading type:__
+1. fetch = FetchType.EAGER - When using the related entities are loaded at once together with the download of the primary entity
+2. fetch = FetchType.LAZY - When using it, related entities ARE not loaded immediately when the main entity is loaded. Related entities are loaded only when they are accessed for the first time
+
+__Default Fetch type:__
++ One-to-One --> __Eager__
++ One-to-Many --> __Lazy__
++ Many-to-One --> __Eager__
++ Many-to-Many --> __Lazy__
 
 + [к оглавлению](#spring)
 
