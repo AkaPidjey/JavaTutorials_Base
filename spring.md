@@ -94,7 +94,8 @@ __Configuration using annotations:__
 ### Spring MVC
 + @Controller - Specialized @Component
 + @RequestMapping("/") - Binds the URL to the controller method
-
++ @RequestParam("employeName") - Allows us to associate a form field with a method parameter from the controller
++ @ModelAttribute("employee") - When it is in a controller method parameter, it gives access to a specific attribute of the model
 
 Spring Core
 
