@@ -95,10 +95,15 @@ __Configuration using annotations:__
 + @Controller - Specialized @Component
 + @Repository - Specialized @Component. This annotation is used for the DAO 
 + @Service - Specialized @Component. Marks a class that contains business logic. Service is the connecting link between the Controller and the DAO
++ @RestController - This is the Controller that manages REST requests and responses
 + @RequestMapping("/") - Binds the URL to the controller method
++ @GetMapping - Binds an HTTP request that uses the HTTP GET method to the Controller method
++ @PostMapping - Binds an HTTP request that uses the HTTP POST method to the Controller method
 + @RequestParam("employeName") - Allows us to associate a form field with a method parameter from the controller
++ @PathVariable int id - Used to get the value of a variable from the request address
 + @ModelAttribute("employee") - When it is in a controller method parameter, it gives access to a specific attribute of the model
 + @Transactional - Spring takes responsibility for opening and closing transactions
+
 
 
 Spring Core
