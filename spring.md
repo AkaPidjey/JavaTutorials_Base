@@ -99,11 +99,15 @@ __Configuration using annotations:__
 + @RequestMapping("/") - Binds the URL to the controller method
 + @GetMapping - Binds an HTTP request that uses the HTTP GET method to the Controller method
 + @PostMapping - Binds an HTTP request that uses the HTTP POST method to the Controller method
++ @PutMapping - Binds an HTTP request that uses the HTTP PUT method to the Controller method
++ @DeleteMapping - Binds an HTTP request that uses the HTTP DELETE method to the Controller method
 + @RequestParam("employeName") - Allows us to associate a form field with a method parameter from the controller
++ @RequestBody - Binds the HTTP method body to the Controller method parameter
 + @PathVariable int id - Used to get the value of a variable from the request address
 + @ModelAttribute("employee") - When it is in a controller method parameter, it gives access to a specific attribute of the model
 + @Transactional - Spring takes responsibility for opening and closing transactions
-
++ @ExceptionHandler - The method responsible for exception handling is marked
++ @ControllerAdvice - A class that provides the Global Exception Handler functionality is marked
 
 
 Spring Core
