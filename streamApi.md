@@ -678,21 +678,36 @@ Stream
 [к оглавлению](#Stream-API-и-Лямбда)
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
-#### [Шпаргалка Java программиста 4. Java Stream API-->]( https://habr.com/ru/company/luxoft/blog/270383/ )
-#### [Stream API: универсальная промежуточная операция-->]( https://habr.com/ru/post/262139/ )
-#### [Stream API-->]( https://javarush.ru/groups/posts/2203-stream-api )
-#### [Полное руководство по Java 8 Stream API в картинках и примерах-->]( https://annimon.com/article/2778 )
-#### [Полное руководство по Java Stream API-->]( https://hr-vector.com/java/stream-api )
-#### [Введение в Stream API-->]( https://metanit.com/java/tutorial/10.1.php )
-#### [Interface Stream<T>-->]( https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html )
-#### [Stream API и лямбда выражения в Java.-->]( https://java-master.com/stream-and-lambda-in-java/ )
-#### [Использование generic wildcards для повышения удобства Java API-->]( https://habr.com/ru/post/207360/ )
-#### [Используйте Stream API проще (или не используйте вообще)-->]( https://habr.com/ru/post/337350/ )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
-#### [Название-->]( Ссылка )
+### ---Info---
++ [Interface Stream<T>-->]( https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html )
+
+### ---Video---
+### ---Lessons---
++ [Шпаргалка Java программиста 4. Java Stream API-->]( https://habr.com/ru/company/luxoft/blog/270383/ )
++ [Stream API: универсальная промежуточная операция-->]( https://habr.com/ru/post/262139/ )
++ [Stream API-->]( https://javarush.ru/groups/posts/2203-stream-api )
++ [Полное руководство по Java 8 Stream API в картинках и примерах-->]( https://annimon.com/article/2778 )
++ [Полное руководство по Java Stream API-->]( https://hr-vector.com/java/stream-api )
++ [Введение в Stream API-->]( https://metanit.com/java/tutorial/10.1.php )
+
++ [Stream API и лямбда выражения в Java.-->]( https://java-master.com/stream-and-lambda-in-java/ )
++ [Использование generic wildcards для повышения удобства Java API-->]( https://habr.com/ru/post/207360/ )
++ [Используйте Stream API проще (или не используйте вообще)-->]( https://habr.com/ru/post/337350/ )
++ Optional Class
++ [Объект в футляре или Optional в Java 8 и Java 9. Часть 1: «Как без него прожить?»(2018)-->]( https://habr.com/ru/post/347480/ )
++ [Объект в футляре или Optional в Java 8 и Java 9. Часть 2: «Как это делается в Java 8»(2018)-->]( https://habr.com/ru/post/347576/ )
++ [Объект в футляре или Optional в Java 8 и Java 9. Часть 3: «Что добавилось в Java 9»(2018)-->]( https://habr.com/ru/post/347748/ )
++ [Объект в футляре или Optional в Java 8 и Java 9. Часть 4: «Как футляром с двойным дном закрыть дыру в Java“(2018)-->]( https://habr.com/ru/post/347836/ )
++ [Объект в футляре или Optional в Java 8 и Java 9: Часть 5: Недосказанное и постер в подарок(2018)-->]( https://habr.com/ru/post/350904/ )
++ [Optional: Кот Шрёдингера в Java 8(2018)-->]( https://habr.com/ru/post/346782/ )
++ [Разбираем класс java.util.Optional-->]( https://megahub.me/post/16 )
+### ---Forum---
+
+
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
 
 [к оглавлению](#Stream-API-и-Лямбда)
