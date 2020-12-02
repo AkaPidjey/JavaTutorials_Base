@@ -67,11 +67,12 @@ __Configuration using annotations:__
 + @PreDestroy - Used to specify the destroy-method 
 + @Comfiguration - Indicates that this class is a configuration
 + @ComponentScan("/web/") - Shows which package to scan for beans and different annotations
++ @EnableAutoConfiguration - 
 + @Bean - To create a bean manually
 + @PropertySource("classpath:myApp.properties") - Shows to the property file where we can use values for fields
 + @Order(2) - Used for ordering elements
 ### Spring AOP
-+ @EnabkeAspectJAutoProxy - Allows us to use Spring AOP Proxy behind the scenes
++ @EnableAspectJAutoProxy - Allows us to use Spring AOP Proxy behind the scenes
 + @Aspect - Indicates that this is not a regular class, but an Aspect
 + @Before("execution(public void getBook())") - Executed before the method with the main logic
 + @AfterReturning - It is executed only after the normal completion of the method with the main logic, but before assigning the result of this method to any variable
@@ -108,6 +109,9 @@ __Configuration using annotations:__
 + @Transactional - Spring takes responsibility for opening and closing transactions
 + @ExceptionHandler - The method responsible for exception handling is marked
 + @ControllerAdvice - A class that provides the Global Exception Handler functionality is marked
+
+### Spring Boot
++ @SpringBootAplication - Replaces the following annotations @Comfiguration/ @EnableAutoConfiguration/ @ComponentScan
 
 
 Spring Core
