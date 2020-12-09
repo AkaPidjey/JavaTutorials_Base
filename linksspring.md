@@ -77,6 +77,7 @@
 + [Пользовательская аутентификация в Spring Security(2020)-->]( https://sysout.ru/polzovatelskaya-autentifikatsiya/ )
 + [Настройка JDBC-аутентификации в Spring Security(2020)-->]( https://sysout.ru/nastrojka-jdbc-autentifikatsii-v-spring-security/ )
 + [Spring Security-->]( https://javastudy.ru/frameworks/spring/spring-security/ )
++ [Дружим обычный вход через email и OAuth2 в Spring Security на примере сервиса заметок(2019)-->]( https://javarush.ru/groups/posts/2269-druzhim-obihchnihy-vkhod-cherez-email-i-oauth2-v-spring-security-na-primere-servisa-zametok )
 ### ---Forum---
 
 [к оглавлению](#Links-for-Spring-Framework)
@@ -123,11 +124,17 @@
 + [Завоевание Spring Boot(2018)-->]( https://javarush.ru/groups/posts/497-zavoevanie-spring-boot )
 + [Руководство Spring Boot для начинающих-->]( https://o7planning.org/ru/11267/spring-boot-tutorial-for-beginners )
 + [Знакомство со Spring Boot-->]( https://topjava.ru/blog/introducing-spring-boot )
++ [Пример Spring Boot + Spring Security + Thymeleaf(2018)-->]( https://leodev.ru/blog/spring-security/spring-boot-spring-security-thymeleaf-example/#.X8uNM2gzY6Q )
++ [Создайте приложение для входа с Spring Boot, Spring Security, JPA-->]( https://o7planning.org/ru/11705/create-a-login-application-with-spring-boot-spring-security-jpa )
 ### ---Forum---
 
 [к оглавлению](#Links-for-Spring-Framework)
 
 
+
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
