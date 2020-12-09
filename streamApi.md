@@ -693,7 +693,7 @@ Stream
 + [Stream API и лямбда выражения в Java.-->]( https://java-master.com/stream-and-lambda-in-java/ )
 + [Использование generic wildcards для повышения удобства Java API-->]( https://habr.com/ru/post/207360/ )
 + [Используйте Stream API проще (или не используйте вообще)-->]( https://habr.com/ru/post/337350/ )
-+ Optional Class
++ __Optional Class__
 + [Объект в футляре или Optional в Java 8 и Java 9. Часть 1: «Как без него прожить?»(2018)-->]( https://habr.com/ru/post/347480/ )
 + [Объект в футляре или Optional в Java 8 и Java 9. Часть 2: «Как это делается в Java 8»(2018)-->]( https://habr.com/ru/post/347576/ )
 + [Объект в футляре или Optional в Java 8 и Java 9. Часть 3: «Что добавилось в Java 9»(2018)-->]( https://habr.com/ru/post/347748/ )
@@ -701,10 +701,11 @@ Stream
 + [Объект в футляре или Optional в Java 8 и Java 9: Часть 5: Недосказанное и постер в подарок(2018)-->]( https://habr.com/ru/post/350904/ )
 + [Optional: Кот Шрёдингера в Java 8(2018)-->]( https://habr.com/ru/post/346782/ )
 + [Разбираем класс java.util.Optional-->]( https://megahub.me/post/16 )
++ [Разбираемся с Optional в java-->]( https://java-master.com/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D1%81-optional-%D0%B2-java/ )
 ### ---Forum---
 
 
-+ [Название-->]( Ссылка )
+
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
