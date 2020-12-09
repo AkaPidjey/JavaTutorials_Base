@@ -25,4 +25,4 @@
 + [GIT & GitHub](git.md)
 + [SQL](sql.md)
 + [Http/Https & Java EE](http.md)
-+ [Bootstrap](bootstrap.md)
++ [HTML/CSS/JS/Bootstrap/JQuery](bootstrap.md)
