@@ -126,15 +126,16 @@
 + [Знакомство со Spring Boot-->]( https://topjava.ru/blog/introducing-spring-boot )
 + [Пример Spring Boot + Spring Security + Thymeleaf(2018)-->]( https://leodev.ru/blog/spring-security/spring-boot-spring-security-thymeleaf-example/#.X8uNM2gzY6Q )
 + [Создайте приложение для входа с Spring Boot, Spring Security, JPA-->]( https://o7planning.org/ru/11705/create-a-login-application-with-spring-boot-spring-security-jpa )
+
++ [Spring Boot: от начала до продакшена(2015)-->]( https://habr.com/ru/post/257223/ )
++ [Как построить пирамиду в багажнике или Test-Driven Development приложений на Spring Boot(2018)-->]( https://habr.com/ru/post/431306/ )
++ [TDD приложений на Spring Boot: работа с базой данных(2018)-->]( https://habr.com/ru/post/433958/ )
 ### ---Forum---
 
 [к оглавлению](#Links-for-Spring-Framework)
 
 
 
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
