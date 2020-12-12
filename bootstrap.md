@@ -2,6 +2,12 @@
 
 # Bootstrap
 
+## My summary of JQuery studies
+
+
+
+
+
 ## My notes from the video course
 - A maximum of 12 columns can fit on the screen
 
