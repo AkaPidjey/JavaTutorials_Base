@@ -2,6 +2,12 @@
 
 # Bootstrap
 
+
+# JQuery
++ [YouTube/Glo Academy/Учим jQuery за 30 минут(2017)-->]( https://www.youtube.com/playlist?list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5- )
++ [YouTube/WebDev с нуля. Канал Алекса Лущенко/Видео стрим AJAX и JSON. Часть 1. Общие понятия(2017)-->]( https://www.youtube.com/watch?v=_2X_TgZGdTY )
++ [YouTube/IT-KAMASUTRA/Ajax в деталях #1, Введение в ajax, jQuery, get-запрос(2018)-->]( https://www.youtube.com/watch?v=wXKTQXLblwY )
++ [YouTube/ITDoctor/Основы jQuery(2020)-->]( https://www.youtube.com/playlist?list=PLuY6eeDuleIO6ys8_OmKphvobZxabbGBz )
 ## My summary of JQuery studies
 
 
@@ -30,6 +36,8 @@
 
 + [Bootstrap - Tabs (вкладки)-->]( https://itchief.ru/bootstrap/tabs )
 
+
++ [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
