@@ -37,8 +37,8 @@
 + [Bootstrap - Tabs (вкладки)-->]( https://itchief.ru/bootstrap/tabs )
 
 
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
++ [YouTube/IT-KAMASUTRA/Playlist(9)ajax в деталях(2018)-->]( https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNDDIp2MGbv8cMYsoUO1lew )
++ [Учебник Thymeleaf: Глава 1. Знакомство-->]( https://habr.com/ru/post/350864/ )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
