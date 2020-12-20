@@ -6,7 +6,7 @@
 + [Spring MVC](#Spring-MVC)
 + [Spring Security](#Spring-Security)
 + [Spring Boot](#Spring-Boot)
-
++ [Spring REST](#Spring-REST)
 
 
 [к оглавлению](#Links-for-Spring-Framework)
@@ -135,7 +135,15 @@
 [к оглавлению](#Links-for-Spring-Framework)
 
 
+## Spring REST
 
+
+
++ [Построение REST сервисов с помощью Spring-->]( https://spring-projects.ru/guides/tutorials-bookmarks/ )
++ [Обзор REST. Часть 3: создание RESTful сервиса на Spring Boot(2020)-->]( https://javarush.ru/groups/posts/2488-obzor-rest-chastjh-3-sozdanie-restful-servisa-na-spring-boot )
++ [Spring MVC: создание веб-сайтов и RESTful сервисов-->]( https://habr.com/ru/post/500572/ )
++ [Реализация Spring Framework API с нуля. Пошаговое руководство для начинающих. Часть 1-->]( https://habr.com/ru/post/419679/ )
++ [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
