@@ -17,6 +17,8 @@
 
 ### ---Info---
 ### ---Video---
++ [PlayList/YouTube/FIX Group of Companies/Основы разработки на Java(2018)-->]( https://www.youtube.com/playlist?list=PLVJtKDGxOX1V8NpyHUAkrdezZDvgDhe4b )
++ [PlayList/YouTube/Java Enterprise Online Обучение/Вебинар: ОСВАИВАЕМ JAVA Spring/JPA ENTERPRISE(2016)-->]( https://www.youtube.com/watch?v=J9yDOGT2BhE&list=PLlnJCdtnDQnWCwEZPJmxzbRhNsG4WMtPZ )
 + [Youtube/alishev/Spring Framework. Урок 1: Введение. Зачем изучать Spring?-->]( https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&index=1 )
 + [YouTube/TechTrain/Евгений Борисов — Spring Patterns-->]( https://www.youtube.com/watch?v=61duchvKI6o )
 ### ---Lessons---
@@ -33,6 +35,7 @@
 + [Из резюме джуна: Spring Framework — популярный фреймворк на Java(2020)-->]( https://javarush.ru/groups/posts/2921-iz-rezjume-dzhuna-spring-framework--populjarnihy-freymvork-na-java )
 + [Spring для ленивых. Основы, базовые концепции и примеры с кодом. Часть 1(2018)-->]( https://javarush.ru/groups/posts/spring-framework-java-1 )
 + [Spring для ленивых. Основы, базовые концепции и примеры с кодом. Часть 2(2018)-->]( https://javarush.ru/groups/posts/477-spring-dlja-lenivihkh-osnovih-bazovihe-koncepcii-i-primerih-s-kodom-chastjh-2 )
++ [Реализация Spring Framework API с нуля. Пошаговое руководство для начинающих. Часть 1-->]( https://habr.com/ru/post/419679/ )
 ### ---Forum---
 
 [к оглавлению](#Links-for-Spring-Framework)
@@ -67,6 +70,11 @@
 + [YouTube/Eugene Suleimanov/Spring Security + База Данных. Регистрация и авторизация(2016)-->]( https://www.youtube.com/watch?v=iivY8B5A0Tk )
 + [YouTube/doIT/Веб-разработка на Java. Spring Security. Часть 1.(2018)-->]( https://www.youtube.com/watch?v=MH09q37wHUA )
 + [YouTube/GrabDuck/Spring на практике - как настроить свой UserService в Spring Security-->]( https://www.youtube.com/watch?v=mX2kovQUQAo&list=PLaWfw53gNyzaDTEmrlCCj1jjqr6770Nnp&index=14)
++ [YouTube/Александр Фисунов/GeekBrains: "Как устроен Spring Security" - 31.05.20-->]( https://www.youtube.com/watch?v=HvovW6Uh1yU&t=2s )
++ [YouTube/TheUsharik/Spring Security и защита Java приложений(2020)-->]( https://www.youtube.com/watch?v=rBKxqQJFeHQ&t=7407s )
++ [YouTube/Eugene Suleimanov/Spring Security + База Данных. Регистрация и авторизация (2016)-->](https://www.youtube.com/watch?v=iivY8B5A0Tk )
++ [YouTube/Eugene Suleimanov/Основы работы с Spring Security(2020)-->]( https://www.youtube.com/watch?v=7uxROJ1ndukhttps://www.youtube.com/watch?v=7uxROJ1nduk )
++ [YouTube/Konstantin Shibkov/Внедрение Spring Security в приложение Spring Boot(2020)-->]( https://www.youtube.com/watch?v=m_qu_CtnS6A )
 ### ---Lessons---
 + [Краткий обзор Spring Security-->]( https://habr.com/ru/post/203318/ )
 + [Быстрый старт в Spring Security(2014)-->]( https://devcolibri.com/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%82-%D0%B2-spring-security/ )
@@ -78,6 +86,7 @@
 + [Настройка JDBC-аутентификации в Spring Security(2020)-->]( https://sysout.ru/nastrojka-jdbc-autentifikatsii-v-spring-security/ )
 + [Spring Security-->]( https://javastudy.ru/frameworks/spring/spring-security/ )
 + [Дружим обычный вход через email и OAuth2 в Spring Security на примере сервиса заметок(2019)-->]( https://javarush.ru/groups/posts/2269-druzhim-obihchnihy-vkhod-cherez-email-i-oauth2-v-spring-security-na-primere-servisa-zametok )
+
 ### ---Forum---
 
 [к оглавлению](#Links-for-Spring-Framework)
@@ -137,12 +146,39 @@
 
 ## Spring REST
 
-
-
+### ---Info---
+### ---Video---
+### ---Lessons---
 + [Построение REST сервисов с помощью Spring-->]( https://spring-projects.ru/guides/tutorials-bookmarks/ )
 + [Обзор REST. Часть 3: создание RESTful сервиса на Spring Boot(2020)-->]( https://javarush.ru/groups/posts/2488-obzor-rest-chastjh-3-sozdanie-restful-servisa-na-spring-boot )
 + [Spring MVC: создание веб-сайтов и RESTful сервисов-->]( https://habr.com/ru/post/500572/ )
-+ [Реализация Spring Framework API с нуля. Пошаговое руководство для начинающих. Часть 1-->]( https://habr.com/ru/post/419679/ )
++ [Пример Spring Boot Restful Client c RestTemplate-->]( https://betacode.net/11647/spring-boot-restful-client-with-resttemplate )
++ [Tag: REST-->]( https://codeflex.co/tag/rest/ )
++ [Аутентификация REST API с помощью Spring Security и MongoDB(2020)-->]( https://habr.com/ru/company/otus/blog/488418/ )
++ [Аутентификация на RESTful-сервисе с помощью Spring Security(2019)-->]( https://coderlessons.com/articles/java/autentifikatsiia-na-restful-servise-s-pomoshchiu-spring-security )
++ [Защита Spring Boot RESTful Service используя Basic Authentication-->]( https://o7planning.org/ru/11649/secure-spring-boot-restful-service-using-basic-authentication )
+### ---Forum---
+
+
+
+
+
+
+
+
+
+
+
+### ---Info---
+### ---Video---
+### ---Lessons---
+### ---Forum---
+
+
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
