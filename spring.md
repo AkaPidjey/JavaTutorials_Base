@@ -117,7 +117,7 @@ __Configuration using annotations:__
 + @SpringBootAplication - Replaces the following annotations @Comfiguration/ @EnableAutoConfiguration/ @ComponentScan
 
 
-Spring Core
+__Spring Core__
 
 + __Spring Bean__ - This is an object that is created and managed by Spring Container.
 + __Application Context__ - it consists of Spring Container.
@@ -169,7 +169,7 @@ __The process of dependency injection when using an @Autowired annotation:__
 2. If the @Autowired annotation is present, the search for a suitable bean type begins.
 3. What happens next dependency injection.
 
-Spring AOP
+__Spring AOP__
 
 + __Advice__ - A method that is contained in Aspect and contains end-to-end logic.
 + __Pointcut__- Expression describing where Advice should be applied.
@@ -187,7 +187,7 @@ __Pointcut template__
 __execution(__ modifiers-pattern? __return-type-pattern__ declaring-type-pattern? 
 __method-name-pattern(parameters-pattern)__ throws-pattern? __)__
 
-Hibernate
+__Hibernate__
 
 __Loading type:__
 1. fetch = FetchType.EAGER - When using the related entities are loaded at once together with the download of the primary entity
@@ -568,6 +568,7 @@ public final class Singleton {
 
 
 # Spring MVC
+_____________
 
 ## Как получить данные из файла .property?
 ```java 
@@ -700,6 +701,7 @@ __MVC расшифровывается как Model — View — Controller.__ �
 
 
 # Spring Security
+___________________
 
 ## Как подключить Spring Security к проекту?
 + 1.Добавить зависимость в `Maven` __spring-security-config__
