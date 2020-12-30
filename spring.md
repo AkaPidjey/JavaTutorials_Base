@@ -1157,13 +1157,12 @@ __Подробнее:__
 
 
 ## Как подключить Spring Security к проекту?
-+ 1.Добавить зависимость в `Maven` __spring-security-config__
-+ 2.Добавить классы конфигурации:
-+ наследник для __AbstractSecurityWebApplicationInitializer__ - 
-__SpringSecurityInitializer__ - обязателен для не boot-приложения. Кода в нем нет, но требуется для регистрации секьюрити в Спринг-контейнере.
+1. Добавить зависимость в `Maven` __spring-security-config__
+2. Добавить классы конфигурации:
++ наследник для __AbstractSecurityWebApplicationInitializer__ - __SpringSecurityInitializer__ - обязателен для не boot-приложения. Кода в нем нет, но требуется для регистрации секьюрити в Спринг-контейнере.
 + наследник для __WebSecurityConfigurerAdapter__ с аннотацией `@EnableWebSecurity` - __SecurityConfig__ - настройка секьюрности по определенным URL, а также настройка __UserDetails и GrantedAuthority__.
 + реализация интерфейса __AuthenticationSuccessHandler__ - для стартового перенаправления вновь авторизованного пользователя
-+ 3.Добавить реализацию интерфейсов __UserDetails и GrantedAuthority__ в классах-сущностях (например `User` и `Role`) с переопределением существующих методов:
+3. Добавить реализацию интерфейсов __UserDetails и GrantedAuthority__ в классах-сущностях (например `User` и `Role`) с переопределением существующих методов:
 ```java
 для UserDetails:
 	Collection<? extends GrantedAuthority> getAuthorities();
@@ -1176,11 +1175,11 @@ __SpringSecurityInitializer__ - обязателен для не boot-прило
 для GrantedAuthority:
 	String getAuthority() 
 ```
-+ 4.Добавить реализацию интерфейса __UserDetailsService__ с реализацией единственного метода:
+4. Добавить реализацию интерфейса __UserDetailsService__ с реализацией единственного метода:
 `UserDetails loadUserByUsername(String username)`
-+ 5.Настроить способ аутентификации в __SecurityConfig__ переопределив метод
+5. Настроить способ аутентификации в __SecurityConfig__ переопределив метод
 	`void configure(AuthenticationManagerBuilder auth)`
-+ 6.Настроить доступ к частям сайта в __SecurityConfig__ переопределив метод
+6. Настроить доступ к частям сайта в __SecurityConfig__ переопределив метод
 	`void configure(HttpSecurity http)`
 + [к оглавлению](#spring)
 
