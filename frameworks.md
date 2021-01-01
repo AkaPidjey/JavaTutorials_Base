@@ -105,13 +105,14 @@ Maven-плагины позволяют вставлять в стандартн
 ## Framework Swagger
 ### ---Info---
 + [Начало работы с Swashbuckle и ASP.NET Core-->]( https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio )
-+ [GitHub/swagger-api/swagger-codegen-->]( https://github.com/swagger-api/swagger-codegen/wiki )
++ [GitHub/Swagger-->]( https://github.com/swagger-api )
 + [API Development for Everyone-->]( https://swagger.io/ )
++ [Swagger Petstore-->]( https://editor.swagger.io/ )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 ### ---Video---
 + [ФОРМАЛЬНОЕ ОПИСАНИЕ REST API С ПОМОЩЬЮ SWAGGER (Прохоров Антон)-->]( https://www.youtube.com/watch?v=JeaF0qnWqQY )
-+ [Название-->]( Ссылка )
++ [014. API + Swagger - Игорь Гусев(2019)-->]( https://www.youtube.com/watch?v=lYjm2w8-ERI )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
