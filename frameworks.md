@@ -4,10 +4,10 @@
 ## Various frameworks and plugins
 
 + [Plugin Lombok](#plugin-lombok)
-+ [Framwork Apache Maven](#Framwork-Apache-Maven)
++ [Framework Apache Maven](#Framwork-Apache-Maven)
 + [Apache Application Server Tomcat](#Apache-Application-Server-Tomcat)
 + [Thymeleaf Templates](#Thymeleaf-Templates)
-
++ [Framework Swagger](#Framework-Swagger)
 
 
 + [ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ](#ССЫЛКИ-НА-ДОПОЛНИТЕЛЬНУЮ-ИНФУ)
@@ -20,7 +20,7 @@
 [к оглавлению](#frameworks)
 
 
-## Framwork Apache Maven
+## Framework Apache Maven
 
 ### Использование Dependency
 ```java
@@ -99,9 +99,44 @@ Maven-плагины позволяют вставлять в стандартн
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
-
-
 [к оглавлению](#frameworks)
+
+
+## Framework Swagger
+### ---Info---
++ [Начало работы с Swashbuckle и ASP.NET Core-->]( https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio )
++ [GitHub/swagger-api/swagger-codegen-->]( https://github.com/swagger-api/swagger-codegen/wiki )
++ [API Development for Everyone-->]( https://swagger.io/ )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+### ---Video---
++ [ФОРМАЛЬНОЕ ОПИСАНИЕ REST API С ПОМОЩЬЮ SWAGGER (Прохоров Антон)-->]( https://www.youtube.com/watch?v=JeaF0qnWqQY )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+### ---Lessons---
++ [Swagger – умная документация вашего RESTful web-API — обзор Junior back-end developer-а для новичков(2018)-->]( https://habr.com/ru/post/434798/ )
++ [Swagger-->]( https://prosto-tak.ru/swagger/ )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+### ---Forum---
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+[к оглавлению](#frameworks)
+
+
+
+
+
+
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
 ### ---Info---
