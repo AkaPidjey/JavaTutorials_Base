@@ -10,7 +10,8 @@
 + [Framework Swagger](#Framework-Swagger)
 + [Framework Vaadin](#Framework-Vaadin)
 + [Library Retrofit2](#Library-Retrofit2)
-
++ [Plugin SonarQube/SonarLint](#Plugin-SonarQube/SonarLint)
++ [Plugin Node.js](#Plugin-Node.js)
 
 + [ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ](#ССЫЛКИ-НА-ДОПОЛНИТЕЛЬНУЮ-ИНФУ)
 
@@ -122,8 +123,8 @@ Maven-плагины позволяют вставлять в стандартн
 ### ---Lessons---
 + [Swagger – умная документация вашего RESTful web-API — обзор Junior back-end developer-а для новичков(2018)-->]( https://habr.com/ru/post/434798/ )
 + [Swagger-->]( https://prosto-tak.ru/swagger/ )
-+ [Название-->]( Ссылка )
-+ [Название-->]( Ссылка )
++ [Spring Rest API с Swagger — Создание документации(2019)-->]( https://coderlessons.com/articles/java/spring-rest-api-s-swagger-sozdanie-dokumentatsii )
++ [Spring Boot RESTful API Documentation with Swagger 2-->]( https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/ )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 ### ---Forum---
@@ -182,7 +183,7 @@ Maven-плагины позволяют вставлять в стандартн
 + [Название-->]( Ссылка )
 
 ### ---Video---
-+ [Название-->]( Ссылка )
++ [YouTube/Defog Tech/Using Retrofit to make HTTP calls-->]( https://www.youtube.com/watch?v=wfk_0ZQwixs )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
@@ -209,6 +210,26 @@ Maven-плагины позволяют вставлять в стандартн
 
 [к оглавлению](#frameworks)
 
+## Plugin SonarQube/SonarLint
+### ---Lessons---
++ [SonarQube и IntelliJ IDEA: правильная интеграция(2019)-->]( https://habr.com/ru/company/krista/blog/469963/ )
++ [Название-->]( Ссылка )
+
+[к оглавлению](#frameworks)
+
+
+## Plugin Node.js
+
+### ---Info---
++ [HomePage-->]( https://nodejs.org/en/ )
+
+### ---Lessons---
++ [node.js для Java-разработчиков: первые шаги (2015)-->]( https://habr.com/ru/company/cit/blog/259987/ )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
+[к оглавлению](#frameworks)
 
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
