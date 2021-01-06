@@ -9,6 +9,7 @@
 + [Thymeleaf Templates](#Thymeleaf-Templates)
 + [Framework Swagger](#Framework-Swagger)
 + [Framework Vaadin](#Framework-Vaadin)
++ [Library Retrofit2](#Library-Retrofit2)
 
 
 + [ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ](#ССЫЛКИ-НА-ДОПОЛНИТЕЛЬНУЮ-ИНФУ)
@@ -132,6 +133,7 @@ Maven-плагины позволяют вставлять в стандартн
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
+
 [к оглавлению](#frameworks)
 
 
@@ -168,6 +170,44 @@ Maven-плагины позволяют вставлять в стандартн
 + [Название-->]( Ссылка )
 + [Название-->]( Ссылка )
 
+[к оглавлению](#frameworks)
+
+
+## Library Retrofit2
+### ---Info---
+
++ [HomePage-->](https://square.github.io/retrofit/)
+
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
+### ---Video---
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
+### ---Lessons---
++ [Изучаем Retrofit 2(2016)-->]( https://habr.com/ru/post/314028/ )
++ [Начало работы с retrofit2-->](https://riptutorial.com/ru/retrofit2 )
++ [Retrofit-->]( http://developer.alexanderklimov.ru/android/library/retrofit.php )
++ [Начало работы с HTTP-клиентом Retrofit 2(2019)-->]( https://coderlessons.com/articles/mobilnaia-razrabotka-articles/nachalo-raboty-s-http-klientom-retrofit-2 )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
+### ---Forum---
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
+[к оглавлению](#frameworks)
 
 
 
