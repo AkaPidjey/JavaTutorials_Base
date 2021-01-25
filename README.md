@@ -14,6 +14,7 @@
 + [Java Core. Stream API & Лямбда-выражения](streamApi.md) :white_check_mark:
 + [Java JDBC API](jdbc.md) :white_check_mark:
 + [Java Servlet API](servlet.md)
++ [Java GUI](gui.md)
 + [Java Framework. Collections](collections.md) :white_check_mark:
 + [Java Framework. Hibernate](hibernate.md)   :white_check_mark:
 + [Java Framework. Spring](spring.md)
@@ -22,7 +23,6 @@
 + [Various frameworks and plugins](frameworks.md)
 + [Testing](testing.md)
 + [Java Interview](interview.md)
-+ [GIT & GitHub](git.md)
 + [SQL](sql.md)
 + [Http/Https & Java EE](http.md)
 + [HTML/CSS/JS/Bootstrap/JQuery](bootstrap.md)
