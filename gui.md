@@ -34,5 +34,8 @@ __Layout manager:__
 + SpringLayout
 + without the use of Layout. Specifying the absolute position.
 
+Frame = Root pane = Content pane + Menu
++ frame.getContentPane().add(component)
+
 ## Links to additional information:
 + [YouTube/PlayList/Fyzek/Java GUI mp3 player 15 lessons(2019)-->](https://www.youtube.com/playlist?list=PLcjxJBwuHOIA6BQODWEhlakEEdU05ceSA)
