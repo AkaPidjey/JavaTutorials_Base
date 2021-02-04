@@ -37,5 +37,11 @@ __Layout manager:__
 Frame = Root pane = Content pane + Menu
 + frame.getContentPane().add(component)
 
+Component events:
++ ActionListener
++ MouseListener
++ FocusListener
++ DocumentListener
+
 ## Links to additional information:
 + [YouTube/PlayList/Fyzek/Java GUI mp3 player 15 lessons(2019)-->](https://www.youtube.com/playlist?list=PLcjxJBwuHOIA6BQODWEhlakEEdU05ceSA)
