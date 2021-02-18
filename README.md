@@ -1,7 +1,7 @@
 # Java Tutorials
 
 + [ООП](oop.md) :lock::white_check_mark:
-+ [Java Core. Язык программирования Java](java.md)
++ [Java Core. Язык программирования Java](java.md) :lock::white_check_mark:
 + [Java Core. Примитивные типы данных](primitives.md) :white_check_mark:
 + [Java Core. Класс `String`](strings.md) :white_check_mark:
 
