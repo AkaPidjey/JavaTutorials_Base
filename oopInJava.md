@@ -88,8 +88,6 @@
 + 5.18) [Можно ли так реализовать метод `equals(Object that) {return this.hashCode() == that.hashCode()}`?](#Можно-ли-так-реализовать-метод-equalsobject-that-return-thishashcode--thathashcode)
 + 5.19) [В `equals()` требуется проверять, что аргумент `equals(Object that)` такого же типа что и сам объект. В чем разница между `this.getClass() == that.getClass()` и `that instanceof MyClass`?](#В-equals-требуется-проверять-что-аргумент-equalsobject-that-такого-же-типа-что-и-сам-объект-В-чем-разница-между-thisgetclass--thatgetclass-и-that-instanceof-myclass)
 + 5.20) [Можно ли реализовать метод `equals()` класса `MyClass` вот так: `class MyClass {public boolean equals(MyClass that) {return this == that;}}`?](#Можно-ли-реализовать-метод-equals-класса-myclass-вот-так-class-myclass-public-boolean-equalsmyclass-that-return-this--that)
-
-
 + [ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ](#ССЫЛКИ-НА-ДОПОЛНИТЕЛЬНУЮ-ИНФУ)
 + [к оглавлению](#OOPInJava)
 
