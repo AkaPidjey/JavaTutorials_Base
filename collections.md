@@ -1081,8 +1081,9 @@ HashSet<Object> set = new HashSet<>(map.keySet());
 + [Вопрос#6  К оглавлению](#Framework-Collections)
 
 ## Как устроен `HashSet`, сложность основных операций.
-|HashSet - временная сложность основных операций|
+HashSet - временная сложность основных операций
 | | Поиск | Вставка | Удаление |
+| :---: | :---: | :---: | :---: |  
 | Метод | contains(object) | add(object) | remove(object) |
 | Среднее | O(1) | O(1) | O(1) |
 | Худшее до Java8 | O(n) | O(n) | O(n) |
