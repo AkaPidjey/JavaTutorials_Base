@@ -1006,5 +1006,11 @@ public class MainClass {
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
 
 + [История эволюции интерфейсов в Java (2019)-->]( https://habr.com/ru/post/482498/ )
++ [Как сгенерировать hashCode в Java-->]( http://www.seostella.com/ru/article/2012/10/04/kak-sgenerirovat-hashcode-v-java.html )
 + [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
++ [Название-->]( Ссылка )
+
+
 + [к оглавлению](#OOPInJava)
