@@ -9,11 +9,11 @@
 + [Java Core. Обобщения(Generics)](generics.md)  :lock::white_check_mark: 
 + [Java Core. Функциональные интерфейсы](functionalInterface.md)  :lock::white_check_mark: 
 + [Java Core. Stream API & Лямбда-выражения](streamApi.md)  :lock::white_check_mark:  
-+ [Java Core. Java-8](java8.md) 
++ [Java Core. Java-8/15](java8.md) 
 + [Java Core. Логирование](loggers.md) 
 + [Java Core. Потоки ввода / вывода](streams.md) 
 + [Java Core. Java Framework. Collections](collections.md) 
-
++ [Java Concurrency](concurency.md) 
 
 + [Java JDBC API](jdbc.md) 
 + [Java Servlet API](servlet.md)
