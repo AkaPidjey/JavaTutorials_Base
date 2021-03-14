@@ -13,7 +13,7 @@
 + [Java Core. Логирование](loggers.md) 
 + [Java Core. Потоки ввода / вывода](streams.md) 
 + [Java Core. Java Framework. Collections](collections.md) 
-+ [Java Concurrency](concurency.md) 
++ [Java Concurrency](concurrency.md) 
 
 + [Java JDBC API](jdbc.md) 
 + [Java Servlet API](servlet.md)
