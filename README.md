@@ -1,10 +1,6 @@
 # Java Tutorials
 
-+ [Java Core](core.md) 
-+ [ООП](oop.md) 
-+ [Java Core. Язык программирования Java](java.md) 
-+ [Java Core. Процедурная Java](procedural.md) 
-+ [Java Core. Концепция ООП в Java](oopInJava.md) 
++ [Java Core one. OOP / JavaLanguages / ProceduralJava / OOPInJava](core.md) 
 + [Java Core. Исключения и работа с ними](exceptions.md)  
 + [Java Core. Сериализация и Копирование](serialization.md)  
 + [Java Core. Обобщения(Generics)](generics.md)  
