@@ -1670,7 +1670,7 @@ __Thema4 - OOPInJava____________________________________________________________
     + _Local inner class_ (Локальный класс);
     + _Anonymous inner class_ (Анонимный класс).
 
-+ [Thema#4 Question#1.1  Go to OOPInJava](#Thema4___OOPInJava)
++ [Thema#4 Question#1.1  Go to OOPInJava](#Theme4___OOPInJava)
 
 ## Что такое _«статический класс»_?
 Это вложенный класс, объявленный с использованием ключевого слова `static`. К классам верхнего уровня модификатор `static` неприменим.
