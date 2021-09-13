@@ -1,16 +1,17 @@
 # Java Tutorials
 
-+ [ООП](oop.md) :lock::white_check_mark:
-+ [Java Core. Язык программирования Java](java.md) :lock::white_check_mark:
-+ [Java Core. Процедурная Java](procedural.md) :lock::white_check_mark:
-+ [Java Core. Концепция ООП в Java](oopInJava.md) :lock::white_check_mark:
-+ [Java Core. Исключения и работа с ними](exceptions.md)  :lock::white_check_mark:
-+ [Java Core. Сериализация и Копирование](serialization.md)  :lock::white_check_mark:
-+ [Java Core. Обобщения(Generics)](generics.md)  :lock::white_check_mark: 
-+ [Java Core. Функциональные интерфейсы](functionalInterface.md)  :lock::white_check_mark: 
-+ [Java Core. Stream API & Лямбда-выражения](streamApi.md)  :lock::white_check_mark:  
-+ [Java Core. Java Framework. Collections](collections.md)   :lock::white_check_mark:  
-+ [Java Core. Java-8/15](java8.md)   :lock::white_check_mark:   
++ [Java Core](core.md) 
++ [ООП](oop.md) 
++ [Java Core. Язык программирования Java](java.md) 
++ [Java Core. Процедурная Java](procedural.md) 
++ [Java Core. Концепция ООП в Java](oopInJava.md) 
++ [Java Core. Исключения и работа с ними](exceptions.md)  
++ [Java Core. Сериализация и Копирование](serialization.md)  
++ [Java Core. Обобщения(Generics)](generics.md)  
++ [Java Core. Функциональные интерфейсы](functionalInterface.md)  
++ [Java Core. Stream API & Лямбда-выражения](streamApi.md)   
++ [Java Core. Java Framework. Collections](collections.md)   
++ [Java Core. Java-8/15](java8.md)      
 + [Java Core. Логирование](loggers.md) 
 + [Java Core. Потоки ввода / вывода](streams.md) 
 + [Java Concurrency](concurrency.md)   :lock::white_check_mark:  
