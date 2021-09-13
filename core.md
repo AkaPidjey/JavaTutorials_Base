@@ -2561,7 +2561,7 @@ public class MainClass {
 !!! finalize() called
 !!! done
 ```
-+ [Thema#4 Question#5.20  Go to OOPInJava](#Theme4___OOPInJava)
++ [Thema#4 Question#5.21  Go to OOPInJava](#Theme4___OOPInJava)
 
 
 ## ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ
