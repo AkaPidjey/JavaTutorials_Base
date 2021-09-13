@@ -1,13 +1,12 @@
 # Java Tutorials
 
-+ [Java Core one. OOP / JavaLanguages / ProceduralJava / OOPInJava](core.md) 
++ [Java Core one. OOP / JavaLanguages / ProceduralJava / OOPInJava / FunctionalInterface / ChangesInJava8](core1.md) 
++ [Java Core two. ](core2.md) 
 + [Java Core. Исключения и работа с ними](exceptions.md)  
 + [Java Core. Сериализация и Копирование](serialization.md)  
 + [Java Core. Обобщения(Generics)](generics.md)  
-+ [Java Core. Функциональные интерфейсы](functionalInterface.md)  
 + [Java Core. Stream API & Лямбда-выражения](streamApi.md)   
-+ [Java Core. Java Framework. Collections](collections.md)   
-+ [Java Core. Java-8/15](java8.md)      
++ [Java Core. Java Framework. Collections](collections.md)      
 + [Java Core. Логирование](loggers.md) 
 + [Java Core. Потоки ввода / вывода](streams.md) 
 + [Java Concurrency](concurrency.md)   :lock::white_check_mark:  
