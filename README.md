@@ -8,6 +8,6 @@
 + [Java Framework Spring](spring.md)
 + [Java Patterns and Algorithms](patterns.md)
 + [SQL](sql.md)   :lock::white_check_mark: 
-+ [Various frameworks and plugins](frameworks.md)
++ [Frameworks and plugins for work](frameworks.md)
 + [Http/Https & Java EE](http.md)
 + [Java GUI](gui.md)
