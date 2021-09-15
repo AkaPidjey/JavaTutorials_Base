@@ -1,13 +1,17 @@
 [Java Tutorials](README.md)
 
-# Patterns
+#PatternsAndAlgorithms
+
+## Thema#1 Patterns
 + [Паттерн DAO](#Паттерн-DAO)
 + [RESTful сайты и сервисы](#RESTful-сайты-и-сервисы)
 
 
+## Thema#2 Algorithms
+
 + [ССЫЛКИ НА ДОПОЛНИТЕЛЬНУЮ ИНФУ](#ССЫЛКИ-НА-ДОПОЛНИТЕЛЬНУЮ-ИНФУ)
 
-[к оглавлению](#patterns)
+[к оглавлению](#PatternsAndAlgorithms)
 
 ## Паттерн DAO
 + [Шаблон DAO в Java-->]( https://www.codeflow.site/ru/article/java-dao-pattern )
